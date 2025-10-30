@@ -25,6 +25,10 @@ Course 1 built a strong foundation for me in understanding how organizations thi
 
 ---
 
+### Proof (screenshot)
+![Course 1 Completion](./screenshots/course1-completion.png)
+---
+
 ### Next Steps
 - Continue with **Google Course 2 - Play It Safe: Manage Security Risks**  
 - Progress in TryHackMe **Pre-Security — Introduction to Cyber Security**
