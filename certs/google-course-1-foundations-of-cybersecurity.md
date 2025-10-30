@@ -25,7 +25,7 @@ Course 1 built a strong foundation for me in understanding how organizations thi
 
 ---
 
-### Proof (screenshot)
+### Results (screenshot)
 ![Course 1 Results](./screenshots/google-cybersecurity-course-1-results.png)
 
 ---
