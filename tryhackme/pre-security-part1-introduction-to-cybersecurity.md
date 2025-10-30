@@ -23,8 +23,8 @@ Explore both offensive and defensive sides of cybersecurity, understand how ethi
 ---
 
 ### Reflection
-
 This section helped me to understand the difference between offensive (ethical hacking) and defensive (security operations, threat detection) cybersecurity. I now have a much clearer picture of the different paths in this field, and I’m still exploring which direction I’ll specialize in as I gain more hands-on experience.
+
 ---
 
 ### Next Step
