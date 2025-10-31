@@ -23,9 +23,3 @@ This repository will document my journey — including:
 
 📂 **Practical Labs (TryHackMe):**  
 [Hands-on TryHackMe Labs](./tryhackme)
-
-This repo includes:
-
-- ✅ Google Cybersecurity Certificate progress & notes
-- ✅ TryHackMe hands-on labs and exercises
-- 📸 Verified screenshots and completion proof
