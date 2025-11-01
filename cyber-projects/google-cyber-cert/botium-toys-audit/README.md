@@ -64,7 +64,7 @@ I manually completed the controls and compliance checklist and documented recomm
 
 ## 📎 Supporting Files
 - [Botium Toys Scope, Goals, and Risk Assessment Document](./botium-toys-scope-goals-and-risk-assessment-report.pdf)
-- [My Completed Controls & Compliance Checklist](./compliance-checklist.pdf)
+- [My Completed Controls & Compliance Checklist + Recommendations](./compliance-checklist.pdf)
 
 ## 📁 Certificate Track
 ✅ Google Cybersecurity Certificate  
