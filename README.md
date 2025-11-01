@@ -11,7 +11,7 @@ This repository will document my journey — including:
 
 ---
 
-### Latest Progress
+## Latest Progress
 ✅ Completed Google Cybersecurity Certificate — Course 1 (Foundations of Cybersecurity)  
 🚀 Currently studying: Google Course 2 + TryHackMe Pre-Security (Introduction to Cyber Security)
 
