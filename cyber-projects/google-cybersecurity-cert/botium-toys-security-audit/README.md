@@ -26,17 +26,32 @@ The audit reviewed:
 | Legacy Systems | No scheduled maintenance plan | Medium |
 
 ## ✅ Recommendations  
+
 Based on the risks identified, I recommend Botium Toys implement the following security improvements to strengthen its security posture:
 
-- **Develop a complete asset inventory and classification system** to ensure all devices, systems, and data are tracked and protected properly.
-- **Introduce least-privilege access controls** so employees only access the information needed for their roles, reducing the chance of accidental or unauthorized access to sensitive data.
-- **Enable encryption for customer and payment information**, both in transit and at rest, to protect confidentiality and support regulatory compliance.
-- **Strengthen password requirements and implement a centralized password management solution** to improve authentication security and reduce password-related risks.
-- **Install an Intrusion Detection System (IDS)** to help identify unusual or malicious activity as early as possible.
-- **Create regular data backup procedures and a disaster recovery plan** so critical information can be restored and business operations can continue after an incident.
-- **Schedule consistent maintenance for legacy systems** to prevent security issues resulting from outdated technology.
+1. **Develop a complete asset inventory and classification system**  
+   Ensure all devices, systems, and data are tracked and protected properly.
 
-These changes will help protect customer data, support compliance requirements, and reduce the company’s overall security risk.
+2. **Introduce least-privilege access controls**  
+   Restrict employees to only the data required for their role to reduce accidental or unauthorized access to sensitive information.
+
+3. **Enable encryption for customer and payment information**  
+   Encrypt sensitive data both in transit and at rest to protect confidentiality and support regulatory compliance (e.g., PCI DSS).
+
+4. **Strengthen password requirements and implement a centralized password manager**  
+   Improve authentication security and reduce risks associated with weak or reused passwords.
+
+5. **Install an Intrusion Detection System (IDS)**  
+   Detect and alert on unusual or potentially malicious activity as early as possible.
+
+6. **Create regular data backup procedures and a disaster recovery plan**  
+   Ensure critical data can be restored and operations can continue after an incident.
+
+7. **Schedule consistent maintenance for legacy systems**  
+   Reduce security vulnerabilities caused by outdated technology.
+
+These improvements will help protect customer data, reduce overall security risk, and move the organization closer to compliance with security best practices.
+
 
 ## 🧠 Skills Demonstrated
 - Risk assessment & security analysis  
