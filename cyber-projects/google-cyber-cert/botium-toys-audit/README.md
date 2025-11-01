@@ -63,7 +63,8 @@ These improvements will help protect customer data, reduce overall security risk
 I manually completed the controls and compliance checklist and documented recommendations for improving the company's security posture. Supporting files have been added to this folder.
 
 ## 📎 Supporting Files
-- [Completed Controls & Compliance Checklist](./compliance-checklist.pdf)
+- [Botium Toys Scope, Goals, and Risk Assessment Document](./botium-toys-scope-goals-and-risk-assessment-report.pdf)
+- [My Completed Controls & Compliance Checklist](./compliance-checklist.pdf)
 
 ## 📁 Certificate Track
 ✅ Google Cybersecurity Certificate  
