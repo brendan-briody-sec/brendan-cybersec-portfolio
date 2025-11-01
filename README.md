@@ -37,5 +37,5 @@ A security audit assessing asset management, access controls, encryption, backup
  [Botium Toys Security Audit](./cyber-projects/google-cyber-cert/botium-toys-audit)
 
  📂 **Cybersecurity Projects:**  
-[Hands-on TryHackMe Labs](./cyber-projects/google-cyber-cert/botium-toys-audit)
+[Botium Toys Security Audit](./cyber-projects/google-cyber-cert/botium-toys-audit)
 
