@@ -62,6 +62,9 @@ These improvements will help protect customer data, reduce overall security risk
 ## 📂 Supporting Work
 I manually completed the controls and compliance checklist and documented recommendations for improving the company's security posture. Supporting files will be added to this folder.
 
+## 📎 Supporting Files
+- [Completed Controls & Compliance Checklist](./compliance-checklist.pdf)
+
 ## 📁 Certificate Track
 ✅ Google Cybersecurity Certificate  
 📍 Module: Security Frameworks and Controls
