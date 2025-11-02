@@ -35,6 +35,7 @@ A living log of the skills I’m actively building through labs, courses, and wr
 - **Networking – Subnetting & CIDR** · applied in *TryHackMe: Network Fundamentals* → simple subnet plans for small networks.
 - **Security Documentation – Audit Checklists** · built scope/goals/risk items for *Botium Toys* and documented evidence.
 
+
 ➡️ **All skills & tools →** [`/skills/README.md`](./skills/README.md)
 
 ---
