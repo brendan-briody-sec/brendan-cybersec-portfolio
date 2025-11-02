@@ -63,7 +63,7 @@
 
 ## Soft Skills
 - **Documentation, Problem Solving, Attention to Detail, Learning Discipline**
-  - **Evidence:** Public LinkedIn progress posts; consistent repo updates, certs achieved
+  - **Evidence:** [LinkedIn progress posts](https://www.linkedin.com/in/brendanbriody/) ; consistent repo updates, certs achieved
 
 ---
 
