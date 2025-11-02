@@ -6,7 +6,7 @@
 ## 📋 Index
 - [Cybersecurity Fundamentals](#cybersecurity-fundamentals)
 - [Networking](#networking)
-- [Linux / Command Line](#linux--command-line)-
+- [Linux / Command Line](#linux--command-line)
 - [Security Tools](#security-tools)
 - [Threats & Attacks](#threats--attacks)
 - [Security Documentation](#security-documentation)
