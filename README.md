@@ -40,6 +40,11 @@ A living log of the skills I’m actively building through labs, courses, and wr
 
 ---
 
+## Certifications
+- Google Cybersecurity Certificate — Course 1 (Foundations) ✅
+
+---
+
 ### Portfolio Navigation
 📂 **Certifications:**  
 [Google Cybersecurity Progress](./certs)
