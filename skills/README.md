@@ -54,8 +54,8 @@
 ## Security Documentation
 - **Audit Checklists, Risk Analysis, Scope Docs, Findings Reports**
   - **Evidence:** Botium Toys audit deliverables
-  - **Proof:** [Botium Toys Audit Project](https://github.com/brendan-cybersec-portfolio/cyber-projects/google-cyber-cert/botium-toys-audit)
-
+  - **Proof:** [Botium Toys Audit Project](./cyber-projects/google-cyber-cert/botium-toys-audit)
+ 
 ## Version Control / Git
 - **Commits, branches, repo structure, clean READMEs**
   - **Evidence:** Portfolio build + refactors
