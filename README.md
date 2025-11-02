@@ -1,6 +1,6 @@
 # Brendan Briody — Cybersecurity Portfolio
 
-Aspiring cybersecurity analyst based in Dublin, currently completing the **Google Cybersecurity Professional Certificate** and building hands-on skills through **TryHackMe** and **personal labs**.
+Aspiring cybersecurity analyst based in Dublin, currently completing the [**Google Cybersecurity Professional Certificate**](https://www.coursera.org/account/accomplishments/verify/OL1CLCVOFN66) and building hands-on skills through [**TryHackMe**](https://tryhackme.com/p/brendanbriodysec) and **personal labs**.
 
 This repository will document my journey — including:
 - Practical security labs & exercises (TryHackMe, Wireshark, networking, etc.)
