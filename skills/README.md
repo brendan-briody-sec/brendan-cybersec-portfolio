@@ -69,8 +69,11 @@
 ---
 
 ## Roadmap
+
 **In Progress:** TryHackMe Network Fundamentals - Currently learning the core concepts of how computers communicate with each other and types of network weaknesses.
+
 **Next:** How The Web Works - This section teaches how to become a better hacker as it's vital to understand the underlying functions of the world wide web and what makes it work.
+
 **Later:** Linux Fundamentals - Many servers and security tools use Linux. Here I'll learn how to use the Linux operating system, a critical skill in cyber security.
 
 ---
