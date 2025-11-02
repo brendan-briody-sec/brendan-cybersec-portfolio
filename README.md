@@ -41,7 +41,7 @@ A living log of the skills I’m actively building through labs, courses, and wr
 ---
 
 ## Certifications
-- Google Cybersecurity Certificate — Course 1 (Foundations) ✅
+- [Google Cybersecurity Certificate — Course 1 (Foundations) ✅](https://www.coursera.org/account/accomplishments/records/OL1CLCVOFN66 "Verify Certificate")
 
 ---
 
