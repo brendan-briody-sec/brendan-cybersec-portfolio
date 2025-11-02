@@ -63,7 +63,7 @@
 
 ## Soft Skills
 - **Documentation, Problem Solving, Attention to Detail, Learning Discipline**
-  - **Evidence:** [LinkedIn](https://www.linkedin.com/in/brendanbriody/) progress posts; consistent repo updates, certs achieved
+  - **Evidence:** [LinkedIn](https://www.linkedin.com/in/brendanbriody/) progress posts; consistent [Repo](https://github.com/brendan-briody-sec/brendan-cybersec-portfolio) updates, [Certs](https://www.linkedin.com/in/brendanbriody/details/certifications/) achieved
 
 ---
 
