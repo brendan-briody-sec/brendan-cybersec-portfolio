@@ -32,7 +32,6 @@
 - **Subnetting & CIDR**
   - **Evidence:** TryHackMe labs + personal notes
   - **Applied:** Designed `/28` lab network → IP plan for hosts/gateway/broadcast
-  - **Proof (optional):** `screenshots/networking/` *(add later if you like)*
 
 ## Linux / Command Line
 - **Filesystem navigation, permissions, processes, monitoring** *(in progress)*
