@@ -26,6 +26,19 @@ A security audit assessing asset management, access controls, encryption, backup
 
 ---
 
+## 🧠 Hands-On Skills Progress
+
+A living log of the skills I’m actively building through labs, courses, and write-ups.  
+**Last Updated:** 2025-11-02
+
+### Latest (2)
+- **Networking – Subnetting & CIDR** · applied in *TryHackMe: Network Fundamentals* → simple subnet plans for small networks.
+- **Security Documentation – Audit Checklists** · built scope/goals/risk items for *Botium Toys* and documented evidence.
+
+➡️ **All skills & tools →** [`/skills/README.md`](./skills/README.md)
+
+---
+
 ### Portfolio Navigation
 📂 **Certifications:**  
 [Google Cybersecurity Progress](./certs)
