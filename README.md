@@ -19,7 +19,7 @@ This repository will document my journey — including:
 
 ## 🔐 Cybersecurity Projects
 
-### Botium Toys Security Audit (Google Cybersecurity Certificate)
+### Latest: Botium Toys Security Audit (Google Cybersecurity Certificate)
 A security audit assessing asset management, access controls, encryption, backups, and compliance posture. Includes a completed controls & compliance checklist and risk recommendations.
 
 📂 [View Project Folder](./cyber-projects/google-cyber-cert/botium-toys-audit)
