@@ -55,3 +55,11 @@ A living log of the skills I’m actively building through labs, courses, and wr
  📂 **Cybersecurity Projects:**  
 [Botium Toys Security Audit](./cyber-projects/google-cyber-cert/botium-toys-audit)
 
+---
+
+## 📬 Contact & Connect
+
+If you'd like to connect, collaborate, or discuss cybersecurity, feel free to reach out:
+
+- 📧 Email: **brendanbriody.sec@gmail.com**
+- 💼 LinkedIn: **https://www.linkedin.com/in/brendanbriody**
