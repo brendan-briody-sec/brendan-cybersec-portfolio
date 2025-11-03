@@ -72,4 +72,4 @@ I manually completed the controls and compliance checklist and documented recomm
 
 ## 🚀 Personal Reflection
 For this project, I focused on applying foundational security principles and best practices. This project strengthened my understanding of risk management, security controls, and how to communicate findings clearly and professionally. 
-This project allowed me to actively demonstrates my ability to select controls that Botium Toys does or does not need to implement and compliance best practices that the company needs to adhere to in order to mitigate risks and avoid fines.
+This project allowed me to actively demonstrate my ability to select controls that Botium Toys does or does not need to implement and compliance best practices that the company needs to adhere to in order to mitigate risks and avoid fines.
