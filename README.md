@@ -63,3 +63,7 @@ If you'd like to connect, collaborate, or discuss cybersecurity, feel free to re
 
 - 📧 Email: **brendanbriody.sec@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/brendanbriody**
+
+## Labs
+
+- **Metasploitable2 — SSH brute-force (Nov 7, 2025)** — [View lab report](https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/blob/main/labs/metasploitable-ssh-lab/README.md "Metasploitable2 — SSH brute-force (Nov 7, 2025) — evidence and PCAPs")
