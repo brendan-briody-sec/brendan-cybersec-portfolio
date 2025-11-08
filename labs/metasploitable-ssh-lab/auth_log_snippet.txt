@@ -1,0 +1,26 @@
+Nov  7 12:56:27 metasploitable sshd[4081]: Server listening on :: port 22.
+Nov  7 12:56:27 metasploitable sshd[4081]: error: Bind to port 22 on 0.0.0.0 failed: Address already in use.
+Nov  7 12:59:41 metasploitable login[4609]: pam_unix(login:auth): authentication failure; logname=LOGIN uid=0 euid=0 tty=tty1 ruser= rhost=  user=msfadmin
+Nov  7 12:59:42 metasploitable login[4609]: FAILED LOGIN (1) on 'tty1' FOR `msfadmin', Authentication failure
+Nov  7 13:02:17 metasploitable login[4716]: pam_unix(login:session): session opened for user msfadmin by LOGIN(uid=0)
+Nov  7 13:09:01 metasploitable CRON[4742]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  7 13:09:01 metasploitable CRON[4742]: pam_unix(cron:session): session closed for user root
+Nov  7 13:17:01 metasploitable CRON[4775]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  7 13:17:01 metasploitable CRON[4775]: pam_unix(cron:session): session closed for user root
+Nov  7 13:39:01 metasploitable CRON[4826]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  7 13:39:01 metasploitable CRON[4826]: pam_unix(cron:session): session closed for user root
+Nov  7 14:09:01 metasploitable CRON[4900]: pam_unix(cron:session): session opened for user root by (uid=0)
+Nov  7 14:09:01 metasploitable CRON[4900]: pam_unix(cron:session): session closed for user root
+Nov  7 20:23:16 metasploitable sshd[4047]: Server listening on :: port 22.
+Nov  7 20:23:16 metasploitable sshd[4047]: error: Bind to port 22 on 0.0.0.0 failed: Address already in use.
+Nov  7 20:23:17 metasploitable sshd[4047]: Received SIGHUP; restarting.
+Nov  7 20:23:17 metasploitable sshd[4202]: Server listening on :: port 22.
+Nov  7 20:23:17 metasploitable sshd[4202]: error: Bind to port 22 on 0.0.0.0 failed: Address already in use.
+Nov  7 20:28:08 metasploitable sshd[4714]: Did not receive identification string from 192.168.56.2
+Nov  7 20:28:14 metasploitable rlogind[4725]: Connection from 192.168.56.2 on illegal port
+Nov  7 20:29:01 metasploitable sshd[4749]: Accepted password for msfadmin from 192.168.56.2 port 56290 ssh2
+Nov  7 20:29:01 metasploitable sshd[4751]: pam_unix(sshd:session): session opened for user msfadmin by (uid=0)
+Nov  7 20:29:01 metasploitable sshd[4751]: Received disconnect from 192.168.56.2: 11: disconnected by user
+Nov  7 20:29:01 metasploitable sshd[4751]: pam_unix(sshd:session): session closed for user msfadmin
+Nov  7 20:32:37 metasploitable sshd[4757]: Accepted password for msfadmin from 192.168.56.2 port 47364 ssh2
+Nov  7 20:32:37 metasploitable sshd[4759]: pam_unix(sshd:session): session opened for user msfadmin by (uid=0)

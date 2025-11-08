@@ -1,0 +1,1 @@
+# Hydra v9.5 run at 2025-11-07 15:32:05 on 192.168.56.3 ssh (hydra -l msfadmin -P /home/kali/Documents/lab-home/small_wordlist.txt -t 4 -f -o /home/kali/Downloads/hydra_ssh_out.txt -V ssh://192.168.56.3)
