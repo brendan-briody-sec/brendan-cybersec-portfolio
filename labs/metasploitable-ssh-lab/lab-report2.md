@@ -69,9 +69,7 @@ Network: VirtualBox Host-Only (isolated)
 
 > All commands were executed on Kali unless otherwise noted.
 
-### 0) Preparation (import & snapshot)
-
-0) PREPARATION (IMPORT VMS + SNAPSHOTS)  
+### 0) PREPARATION (IMPORT VMS + SNAPSHOTS)  
 Imported Kali and Metasploitable2 into VirtualBox. Configured both VMs to use a Host-Only adapter (`vboxnet0`) so the environment is isolated. Booted both VMs and verify IPs: Kali should be `192.168.56.2`, Metasploitable `192.168.56.3`. Took snapshots BEFORE testing: Kali snapshot `kali-clean-base`; Metasploitable snapshot `msf-clean-base`. The Snapshots let me return to a known baseline if anything breaks.
 
 ```bash
