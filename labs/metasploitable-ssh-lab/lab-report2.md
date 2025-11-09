@@ -87,12 +87,11 @@ ping -c 3 192.168.56.3
 ```
 
 ### 2) Reconnaissance — Nmap (Kali)
+Ran a SYN + version scan and saved output: `sudo nmap -sS -sV -Pn -oN ~/Downloads/nmap_metasploitable.txt 192.168.56.3`. Saved `nmap_metasploitable.txt` as evidence. Example useful output lines: `22/tcp open ssh OpenSSH 4.7p1` and many legacy services (ftp, telnet, mysql, tomcat, bindshell 1524).
 
 ```bash
 sudo nmap -sS -sV -Pn -oN ~/Downloads/nmap_metasploitable.txt 192.168.56.3
 ```
-
-Save `nmap_metasploitable.txt` into the evidence folder.
 
 ### 3) Start packet capture (Kali)
 
