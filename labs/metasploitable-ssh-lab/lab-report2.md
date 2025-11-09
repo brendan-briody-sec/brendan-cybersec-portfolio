@@ -1,4 +1,4 @@
-# Metasploitable2 — SSH brute-force lab (Improved layout)
+# Lab Report — Metasploitable2 SSH brute-force (Nov 7, 2025)
 
 **Author:** Brendan Briody
 **Date:** 2025-11-07
