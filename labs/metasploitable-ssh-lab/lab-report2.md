@@ -73,11 +73,9 @@ Network: VirtualBox Host-Only (isolated)
 Imported Kali and Metasploitable2 into VirtualBox. Configured both VMs to use a Host-Only adapter (`vboxnet0`) so the environment is isolated. Booted both VMs and verify IPs: Kali should be `192.168.56.2`, Metasploitable `192.168.56.3`. Took snapshots BEFORE testing: Kali snapshot `kali-clean-base`; Metasploitable snapshot `msf-clean-base`. The Snapshots let me return to a known baseline if anything breaks.
 
 ```bash
-# Import VMs and confirm network
-# Take snapshots BEFORE testing
-# Example snapshot names used:
-# Kali: kali-clean-base
-# Metasploitable: msf-clean-base
+# Imported VMs and confirmed network
+# Took snapshots BEFORE testing
+# Example snapshot names used: Kali: kali-clean-base and Metasploitable: msf-clean-base
 ```
 
 ### 1) Verify connectivity (Kali)
