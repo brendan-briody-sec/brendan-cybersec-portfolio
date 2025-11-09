@@ -25,6 +25,14 @@ This mini-lab covers scanning the target to discover services, attempting a cont
 
 ---
 
+## Key results / findings
+- Nmap discovered multiple intentionally vulnerable services (ssh, ftp, telnet, smb, mysql, etc.). See `nmap_metasploitable.txt`.  
+- Controlled login attempts produced `Accepted password` entries in `/var/log/auth.log` (see `auth_log_snippet.txt`).  
+- `ssh_bruteforce.pcap` contains captured SSH handshake + payload bytes showing the connection.  
+- Blocking Kali from Metasploitable via iptables (DROP on port 22) produced connection timeouts from Kali — validating mitigation.
+
+---
+
 ## Evidence files (in this folder)
 - `README.md` — this summary (you are here).  
 - `lab-report.md` — **detailed step-by-step** lab report with commands, troubleshooting, findings (recommended to add).  
