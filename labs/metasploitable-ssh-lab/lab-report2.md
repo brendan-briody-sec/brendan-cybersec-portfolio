@@ -86,8 +86,6 @@ ip a            # confirm interface
 ping -c 3 192.168.56.3
 ```
 
-Expected: 3 transmitted, 3 received, 0% loss.
-
 ### 2) Reconnaissance — Nmap (Kali)
 
 ```bash
