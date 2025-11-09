@@ -81,6 +81,8 @@ Imported Kali and Metasploitable2 into VirtualBox. Configured both VMs to use a 
 ```
 
 ### 1) Verify connectivity (Kali)
+1) VERIFIED CONNECTIVITY (RAN ON KALI)  
+Ran: `ip a` and `ping -c 3 192.168.56.3`. Expected: `3 packets transmitted, 3 received, 0% packet loss` — this confirmed host-only connectivity between the attacker and target.
 
 ```bash
 ip a            # confirm interface
