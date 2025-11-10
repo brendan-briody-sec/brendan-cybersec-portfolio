@@ -216,7 +216,7 @@ After evidence collection and pushing, restored the clean snapshots in VirtualBo
 - [hydra_ssh_out.txt](./evidence/artifacts/hydra_ssh_out.txt) — Brute-force tool output  
 - [ssh_bruteforce.pcap](./evidence/artifacts/ssh_bruteforce.pcap) — Wireshark capture  
 - [nmap_metasploitable.txt](./evidence/artifcts/nmap_metasploitable.txt) — Full Nmap text output
-- [lab-report.md](./labs/metasploitable-ssh-lab/lab-report.md) — this file.
+- [lab-report.md](./metasploitable-ssh-lab/lab-report.md) — this file.
 
 ---
 
