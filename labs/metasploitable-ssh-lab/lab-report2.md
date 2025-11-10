@@ -147,7 +147,7 @@ sshpass -p 'msfadmin' ssh -o StrictHostKeyChecking=no \
 
 **Security note:** do not commit secrets; collected only necessary log snippets and rotate/revoke any tokens used.
 
-### 6) Apply temporary mitigation (Iptables ran on Metasploitable2)
+### 6) Applied temporary mitigation (Iptables ran on Metasploitable2)
 
 On the target, I applied a DROP rule to block the attacker's IP for SSH:
 `sudo iptables -A INPUT -s 192.168.56.2 -p tcp --dport 22 -j DROP`
