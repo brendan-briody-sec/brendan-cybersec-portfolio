@@ -78,7 +78,7 @@ Imported Kali and Metasploitable2 into VirtualBox. Configured both VMs to use a 
 # Example snapshot names used: Kali: kali-clean-base and Metasploitable: msf-clean-base
 ```
 
-### 1) Verify connectivity (Kali)
+### 1) Verified connectivity (Kali)
 Ran: `ip a` and `ping -c 3 192.168.56.3`. Expected: `3 packets transmitted, 3 received, 0% packet loss` — this confirmed host-only connectivity between the attacker and target.
 
 ```bash
@@ -93,14 +93,13 @@ Ran a SYN + version scan and saved output: `sudo nmap -sS -sV -Pn -oN ~/Download
 sudo nmap -sS -sV -Pn -oN ~/Downloads/nmap_metasploitable.txt 192.168.56.3
 ```
 
-### 3) Start packet capture (Kali)
+### 3) Started Packet Capture — TCPDump (Kali) 
+Started capture prior to authentication attempts: `sudo tcpdump -i eth0 -w ~/Downloads/ssh_bruteforce.pcap tcp port 22` and pressed Ctrl+C to stop after tests. On stop, I saw `^C47 packets captured`. The file `ssh_bruteforce.pcap` is the capture to open in Wireshark for analysis. Note: confirmed `eth0` is the correct interface for the host-only adapter.
 
 ```bash
 sudo tcpdump -i eth0 -w ~/Downloads/ssh_bruteforce.pcap tcp port 22
 # Ctrl+C when done
 ```
-
-Note: confirm `eth0` is the correct interface for the host-only adapter.
 
 ### 4) Controlled SSH authentication test (Hydra) — observed host-key error
 
