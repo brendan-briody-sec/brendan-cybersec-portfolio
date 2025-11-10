@@ -6,11 +6,8 @@
 
 ---
 
-## TL;DR
-
-Small, repeatable home‑lab demonstrating discovery, a controlled SSH authentication exercise, packet capture, log correlation, a temporary mitigation, and evidence collection. All activity performed on isolated VirtualBox Host‑Only network with permission (personal lab).
-
-This is a single, straight-through, step-by-step lab report for an isolated VirtualBox host-only environment with Kali (attacker) `192.168.56.2` and Metasploitable2 (target) `192.168.56.3`. The objective: demonstrate scanning, a controlled SSH authentication exercise, network capture, log extraction, a temporary mitigation, evidence collection, and documentation for this portfolio. All actions were performed on VMs I controled inside a Host-Only virtual network. Safety reminder: I did not run these steps against systems I do not own or have explicit permission to test.
+## Overview
+Step-by-step lab report for an isolated VirtualBox host-only environment with Kali (attacker) `192.168.56.2` and Metasploitable2 (target) `192.168.56.3`. The objective: demonstrate scanning, a controlled SSH authentication exercise, network capture, log extraction, a temporary mitigation, evidence collection, and documentation for this portfolio. All actions were performed on VMs I controled inside a Host-Only virtual network. Safety reminder: I did not run these steps against systems I do not own or have explicit permission to test on.
 
 ---
 
