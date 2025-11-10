@@ -258,9 +258,9 @@ All screenshots and supporting files for this lab are stored in the [`evidence/`
 **Additional Files**
 
 - [auth_log_snippet.txt](./evidence/artifacts/auth_log_snippet.txt) — Raw SSH login log snippet  
-- [hydra_ssh_out.txt](./hydra_ssh_out.txt) — Brute-force tool output  
-- [ssh_bruteforce.pcap](./ssh_bruteforce.pcap) — Wireshark capture  
-- [nmap_metasploitable.txt](./nmap_metasploitable.txt) — Full Nmap text output  
+- [hydra_ssh_out.txt](./evidence/artifacts/hydra_ssh_out.txt) — Brute-force tool output  
+- [ssh_bruteforce.pcap](./evidence/artifacts/ssh_bruteforce.pcap) — Wireshark capture  
+- [nmap_metasploitable.txt](./evidence/artifcts/nmap_metasploitable.txt) — Full Nmap text output  
 
 ---
 
