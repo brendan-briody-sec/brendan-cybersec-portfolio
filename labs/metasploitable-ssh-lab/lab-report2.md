@@ -57,7 +57,7 @@ Network: VirtualBox Host-Only (isolated)
 
 ## Artifacts included in `labs/metasploitable-ssh-lab/`
 
-* `lab-report.md` — this file (improved layout).
+* `lab-report.md` — this file
 * `nmap_metasploitable.txt` — full Nmap output.
 * `ssh_bruteforce.pcap` — tcpdump capture (open in Wireshark).
 * `auth_log_snippet.txt` — `/var/log/auth.log` excerpt from target.
