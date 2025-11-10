@@ -49,7 +49,7 @@ Demonstrate reconnaissance and a controlled SSH authentication test against a pu
 
 ```
 Kali (attacker)        192.168.56.2
-Metasploitable2 (target)192.168.56.3
+Metasploitable2 (target) 192.168.56.3
 Network: VirtualBox Host-Only (isolated)
 ```
 
