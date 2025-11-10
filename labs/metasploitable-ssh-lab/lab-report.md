@@ -204,19 +204,11 @@ After evidence collection and pushing, restored the clean snapshots in VirtualBo
 
 ## Evidence correlation & verification
 
-* `nmap_metasploitable.txt` — full Nmap scan output (service/version discovery).
-* `ssh_bruteforce.pcap` — tcpdump capture of SSH traffic (open with Wireshark).
-* `auth_log_snippet.txt` — snippet of `/var/log/auth.log` from the target for correlation.
-* `hydra_ssh_out.txt` — Hydra run output and observed error messages.
-* `lab-report.md` — this file.
-
-**Additional Files**
-
-- [auth_log_snippet.txt](./evidence/artifacts/auth_log_snippet.txt) — Raw SSH login log snippet  
-- [hydra_ssh_out.txt](./evidence/artifacts/hydra_ssh_out.txt) — Brute-force tool output  
-- [ssh_bruteforce.pcap](./evidence/artifacts/ssh_bruteforce.pcap) — Wireshark capture  
-- [nmap_metasploitable.txt](./evidence/artifcts/nmap_metasploitable.txt) — Full Nmap text output
-- [lab-report.md] — this file.
+- [lab-report.md] — this file. 
+- [nmap_metasploitable.txt](./evidence/artifcts/nmap_metasploitable.txt) — Full Nmap scan output (service/version discovery).
+- [ssh_bruteforce.pcap](./evidence/artifacts/ssh_bruteforce.pcap) — — tcpdump capture of SSH traffic (open with Wireshark).
+- [auth_log_snippet.txt](./evidence/artifacts/auth_log_snippet.txt) — snippet of `/var/log/auth.log` from the target for correlation.
+- [hydra_ssh_out.txt](./evidence/artifacts/hydra_ssh_out.txt) — Hydra ran output and observed error messages.
 
 ---
 
