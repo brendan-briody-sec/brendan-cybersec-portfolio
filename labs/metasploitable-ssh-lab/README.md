@@ -19,7 +19,7 @@ This home-lab covers scanning the target to discover services, attempting a cont
 ## View the full lab
 
 Want the full step-by-step lab report, evidence, and analysis?  
-👉 [View the Metasploitable SSH Brute-Force Lab Report](./labs/metasploitable-ssh-lab/lab-report.md)
+👉 [View the Metasploitable SSH Brute-Force Lab Report](./metasploitable-ssh-lab/lab-report.md)
 
 ---
 
