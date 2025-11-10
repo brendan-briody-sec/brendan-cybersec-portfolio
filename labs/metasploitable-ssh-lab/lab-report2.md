@@ -188,7 +188,7 @@ cp ~/Downloads/hydra_ssh_out.txt labs/metasploitable-ssh-lab/
 
 ### 9) Commit & pushed to Github (Kali)
 
-From the repo root: `git add labs/metasploitable-ssh-lab` then `git commit -m "Add Metasploitable SSH lab evidence (Nov 7 2025)"` then `git push -u origin main`. When pushing via HTTPS, used a GitHub Personal Access Token (PAT) with minimal `repo` scope in place of my password. Revoked the PAT after the push for security hygiene. See Evidence correlation & verification section for more.
+From the repo root: `git add labs/metasploitable-ssh-lab` then `git commit -m "Add Metasploitable SSH lab evidence (Nov 7 2025)"` then `git push -u origin main`. When pushing via HTTPS, used a GitHub Personal Access Token (PAT) with minimal `repo` scope in place of my password. Revoked the PAT after the push for security hygiene. See [Evidence correlation & verification](#evidence-correlation--verification) section for more.
 
 ```bash
 git add labs/metasploitable-ssh-lab
