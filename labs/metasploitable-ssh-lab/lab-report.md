@@ -236,13 +236,6 @@ This lab demonstrates the ability to build isolated attacker/target environments
 
 ## Appendix
 
-* produce a single ready‑to‑paste GitHub `lab-report.md` that *replaces* your current file (I already formatted it above), or
-* create a one‑page printable checklist that you can copy into a lab notebook.
-
----
-
-## 📎 Appendix — Evidence Files
-
 All screenshots and supporting files for this lab are stored in the [`evidence/`](./evidence) folder.
 
 | # | Description | File Link |
