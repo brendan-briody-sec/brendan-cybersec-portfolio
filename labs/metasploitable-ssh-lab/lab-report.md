@@ -210,6 +210,13 @@ After evidence collection and pushing, restored the clean snapshots in VirtualBo
 * `hydra_ssh_out.txt` — Hydra run output and observed error messages.
 * `lab-report.md` — this file.
 
+**Additional Files**
+
+- [auth_log_snippet.txt](./evidence/artifacts/auth_log_snippet.txt) — Raw SSH login log snippet  
+- [hydra_ssh_out.txt](./evidence/artifacts/hydra_ssh_out.txt) — Brute-force tool output  
+- [ssh_bruteforce.pcap](./evidence/artifacts/ssh_bruteforce.pcap) — Wireshark capture  
+- [nmap_metasploitable.txt](./evidence/artifcts/nmap_metasploitable.txt) — Full Nmap text output  
+
 ---
 
 <a id="troubleshooting-quick"></a>
@@ -255,16 +262,6 @@ All screenshots and supporting files for this lab are stored in the [`evidence/`
 
 ---
 
-**Additional Files**
-
-- [auth_log_snippet.txt](./evidence/artifacts/auth_log_snippet.txt) — Raw SSH login log snippet  
-- [hydra_ssh_out.txt](./evidence/artifacts/hydra_ssh_out.txt) — Brute-force tool output  
-- [ssh_bruteforce.pcap](./evidence/artifacts/ssh_bruteforce.pcap) — Wireshark capture  
-- [nmap_metasploitable.txt](./evidence/artifcts/nmap_metasploitable.txt) — Full Nmap text output  
-
----
-
 *All evidence is collected from an isolated internal lab environment (VirtualBox host-only network).*
-
 
 ---
