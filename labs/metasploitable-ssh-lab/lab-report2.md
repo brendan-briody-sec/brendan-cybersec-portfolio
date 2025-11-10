@@ -209,5 +209,3 @@ This lab demonstrates the ability to build isolated attacker/target environments
 * create a one‑page printable checklist that you can copy into a lab notebook.
 
 ---
-
-*End of improved layout.*
