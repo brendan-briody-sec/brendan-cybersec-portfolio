@@ -215,7 +215,7 @@ After evidence collection and pushing, restored the clean snapshots in VirtualBo
 
 ---
 
-<a id="mitigation--cleanup"></a>
+<a id="troubleshooting-quick"></a>
 
 ## Troubleshooting (common issues)
 
