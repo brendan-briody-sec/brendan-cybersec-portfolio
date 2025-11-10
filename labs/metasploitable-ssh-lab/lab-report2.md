@@ -56,7 +56,7 @@ Demonstrate reconnaissance and a controlled SSH authentication test against a pu
 ## Topology & IPs
 
 ```
-Kali (attacker)        192.168.56.2
+Kali (attacker)          192.168.56.2
 Metasploitable2 (target) 192.168.56.3
 Network: VirtualBox Host-Only (isolated)
 ```
