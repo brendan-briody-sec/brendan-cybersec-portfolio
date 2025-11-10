@@ -240,3 +240,31 @@ This lab demonstrates the ability to build isolated attacker/target environments
 * create a one‑page printable checklist that you can copy into a lab notebook.
 
 ---
+
+## 📎 Appendix — Evidence Files
+
+All screenshots and supporting files for this lab are stored in the [`evidence/`](./evidence) folder.
+
+| # | Description | File Link |
+|:-:|--------------|-----------|
+| 1 | Nmap scan of target (`192.168.56.3`) showing open services and ports | [kali_nmap.png](./evidence/kali_nmap.png) |
+| 2 | Authentication log showing failed SSH attempts | [metasploitable2_logins.png](./evidence/metasploitable2_logins.png) |
+| 3 | VirtualBox snapshot manager — baseline and snapshot view | [virtual_machine_homepage.png](./evidence/virtual_machine_homepage.png) |
+| 4 | Kali VM configuration details (RAM, network, description) | [virtual_box_kali_linux_details.png](./evidence/virtual_box_kali_linux_details.png) |
+| 5 | Metasploitable2 network adapter configuration | [virtual_machine_adapter.png](./evidence/virtual_machine_adapter.png) |
+
+---
+
+**Additional Files**
+
+- [auth_log_snippet.txt](./auth_log_snippet.txt) — Raw SSH login log snippet  
+- [hydra_ssh_out.txt](./hydra_ssh_out.txt) — Brute-force tool output  
+- [ssh_bruteforce.pcap](./ssh_bruteforce.pcap) — Wireshark capture  
+- [nmap_metasploitable.txt](./nmap_metasploitable.txt) — Full Nmap text output  
+
+---
+
+*All evidence is collected from an isolated internal lab environment (VirtualBox host-only network).*
+
+
+---
