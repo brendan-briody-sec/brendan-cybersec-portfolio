@@ -26,7 +26,7 @@ This is a single, straight-through, step-by-step lab report for an isolated Virt
 8. [Mitigation & cleanup](#mitigation--cleanup)
 9. [Troubleshooting (quick)](#troubleshooting-quick)
 10. [Reflection](#reflection)
-11. [Appendix: Useful commands / hashes / screenshots tips](#appendix-useful-commands--hashes--screenshots-tips)
+11. [Appendix](#appendix)
 
 ---
 
@@ -235,7 +235,7 @@ This lab demonstrates the ability to build isolated attacker/target environments
 
 ---
 
-<a id="appendix-useful-commands--hashes--screenshots-tips"></a>
+<a id="appendix"></a>
 
 ## Appendix — Useful commands, screenshots tips
 
