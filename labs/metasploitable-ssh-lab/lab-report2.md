@@ -248,10 +248,10 @@ All screenshots and supporting files for this lab are stored in the [`evidence/`
 | # | Description | File Link |
 |:-:|--------------|-----------|
 | 1 | Nmap scan of target (`192.168.56.3`) showing open services and ports | [kali_nmap.png](./evidence/screenshots/kali_nmap.png) |
-| 2 | Authentication log showing failed SSH attempts | [metasploitable2_logins.png](./evidence/metasploitable2_logins.png) |
-| 3 | VirtualBox snapshot manager — baseline and snapshot view | [virtual_machine_homepage.png](./evidence/virtual_machine_homepage.png) |
-| 4 | Kali VM configuration details (RAM, network, description) | [virtual_box_kali_linux_details.png](./evidence/virtual_box_kali_linux_details.png) |
-| 5 | Metasploitable2 network adapter configuration | [virtual_machine_adapter.png](./evidence/virtual_machine_adapter.png) |
+| 2 | Authentication log showing failed SSH attempts | [metasploitable2_logins.png](./evidence/screenshots/metasploitable2_logins.png) |
+| 3 | VirtualBox snapshot manager — baseline and snapshot view | [virtual_machine_homepage.png](./evidence/screenshots/virtual_machine_homepage.png) |
+| 4 | Kali VM configuration details (RAM, network, description) | [virtual_box_kali_linux_details.png](./evidence/screenshots/virtual_box_kali_linux_details.png) |
+| 5 | Metasploitable2 network adapter configuration | [virtual_machine_adapter.png](./evidence/screenshots/virtual_machine_adapter.png) |
 
 ---
 
