@@ -12,7 +12,7 @@ Demonstrate reconnaissance and a controlled SSH brute-force on an isolated home 
 - VirtualBox host-only network (isolated)
 
 ## Summary
-This mini-lab covers scanning the target to discover services, attempting a controlled SSH authentication test (observing a host-key algorithm compatibility issue), capturing packet traffic for evidence, extracting auth log evidence from the target, and applying an iptables block as an immediate mitigation. Snapshots were taken before testing and all work was performed on an isolated local network.
+This home-lab covers scanning the target to discover services, attempting a controlled SSH authentication test (observing a host-key algorithm compatibility issue), capturing packet traffic for evidence, extracting auth log evidence from the target, and applying an iptables block as an immediate mitigation. Snapshots were taken before testing and all work was performed on an isolated local network.
 
 ---
 
