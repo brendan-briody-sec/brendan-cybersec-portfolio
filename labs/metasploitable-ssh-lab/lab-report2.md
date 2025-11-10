@@ -1,10 +1,5 @@
 # Lab Report — Metasploitable2 SSH brute-force (Nov 7, 2025)
 
-**Author:** Brendan Briody
-**Date:** 2025-11-07
-**Repo path:** `labs/metasploitable-ssh-lab/`
-**Status:** ✅ Complete
-
 **Author:** Brendan Briody  
 **Date:** Nov 7, 2025  
 **Repo path:** `labs/metasploitable-ssh-lab/`
