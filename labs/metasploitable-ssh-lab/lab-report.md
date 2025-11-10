@@ -204,7 +204,7 @@ After evidence collection and pushing, restored the clean snapshots in VirtualBo
 
 ## Evidence correlation & verification
 
-- [lab-report.md] — this file. 
+- lab-report.md — this file. 
 - [nmap_metasploitable.txt](./evidence/artifcts/nmap_metasploitable.txt) — Full Nmap scan output (service/version discovery).
 - [ssh_bruteforce.pcap](./evidence/artifacts/ssh_bruteforce.pcap) — — tcpdump capture of SSH traffic (open with Wireshark).
 - [auth_log_snippet.txt](./evidence/artifacts/auth_log_snippet.txt) — snippet of `/var/log/auth.log` from the target for correlation.
