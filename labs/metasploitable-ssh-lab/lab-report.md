@@ -228,7 +228,7 @@ After evidence collection and pushing, restored the clean snapshots in VirtualBo
 
 ## Reflection
 
-This lab demonstrates the ability to build isolated attacker/target environments, perform safe reconnaissance with Nmap, collect and correlate network and host evidence (pcap + auth log), troubleshoot real compatibility issues (legacy SSH host-key algorithms vs modern clients), and apply a practical mitigation (iptables). The artifacts and write-up are reproducible and provide a clear hands-on example of practical troubleshooting and evidence-based thinking — exactly what junior SOC/analyst roles value.
+This lab demonstrates the ability to build isolated attacker/target environments, perform safe reconnaissance with Nmap, collect and correlate network and host evidence (pcap + auth log), troubleshoot real compatibility issues (legacy SSH host-key algorithms vs modern clients), and apply a practical mitigation (iptables). The artifacts and write-up are reproducible and provide a clear hands-on example of practical troubleshooting and evidence-based thinking - exactly what junior SOC/analyst roles value.
 
 ---
 
