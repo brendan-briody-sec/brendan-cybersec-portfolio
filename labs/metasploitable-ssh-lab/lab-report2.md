@@ -25,7 +25,7 @@ This is a single, straight-through, step-by-step lab report for an isolated Virt
 7. [Evidence correlation & verification](#evidence-correlation--verification)
 8. [Mitigation & cleanup](#mitigation--cleanup)
 9. [Troubleshooting (quick)](#troubleshooting-quick)
-10. [Lessons learned & recommendations](#lessons-learned--recommendations)
+10. [Reflection](#reflection)
 11. [Appendix: Useful commands / hashes / screenshots tips](#appendix-useful-commands--hashes--screenshots-tips)
 
 ---
@@ -227,7 +227,7 @@ After evidence collection and pushing, restored the clean snapshots in VirtualBo
 
 ---
 
-<a id="lessons-learned--recommendations"></a>
+<a id="reflection"></a>
 
 ## Reflection
 
