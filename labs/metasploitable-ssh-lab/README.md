@@ -4,7 +4,7 @@
 **Author:** Brendan Briody
 
 ## Objective
-Demonstrate reconnaissance and a controlled SSH brute-force on an isolated home lab, capture network traffic, and apply a simple mitigation (iptables) to block the attacker. All activity performed on an isolated Host-Only network.
+Demonstrate reconnaissance and a controlled SSH brute-force on an isolated home lab, capture network traffic, and apply a mitigation (iptables) to block the attacker. All activity performed on an isolated Host-Only network.
 
 ## Topology
 - **Kali (attacker)** — 192.168.56.2  
