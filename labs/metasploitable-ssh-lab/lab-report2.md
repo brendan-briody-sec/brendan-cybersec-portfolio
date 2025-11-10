@@ -237,7 +237,7 @@ This lab demonstrates the ability to build isolated attacker/target environments
 
 <a id="appendix"></a>
 
-## Appendix — Useful commands, screenshots tips
+## Appendix
 
 * produce a single ready‑to‑paste GitHub `lab-report.md` that *replaces* your current file (I already formatted it above), or
 * create a one‑page printable checklist that you can copy into a lab notebook.
