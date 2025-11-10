@@ -16,6 +16,13 @@ This home-lab covers scanning the target to discover services, attempting a cont
 
 ---
 
+## View the full lab
+
+Want the full step-by-step lab report, evidence, and analysis?  
+👉 [View the Metasploitable SSH Brute-Force Lab Report](./labs/metasploitable-ssh-lab/lab-report.md)
+
+---
+
 ## Tools & commands (high-level)
 - `nmap -sS -sV -Pn -oN nmap_metasploitable.txt 192.168.56.3` — reconnaissance  
 - `tcpdump -i eth0 -w ssh_bruteforce.pcap tcp port 22` — capture SSH traffic  
