@@ -1,50 +1,56 @@
 # TryHackMe — Pre-Security Path (Part 2: Network Fundamentals)
 
 **Status:** Completed  
-**Date Completed:** 13-11-2025  
+**Date Completed:** *13/11/2025*  
 **Modules Covered:**  
-- What is Networking?
-- Intro to LAN
-- OSI Model
-- Packets & Frames
-- Extending Your Network
-
-- HTTP in Detail
-- How Websites Work
-- Putting it all together
-- What Is Networking?  
-- Network Topologies  
-- Network Devices  
-- Cabling & Connectors  
-- The OSI & TCP/IP Models  
-- Ports & Protocols  
-- IP Addressing & Subnetting  
-- DNS in Practice  
-- HTTP(S) Fundamentals  
-- Practical Networking Exercises  
+- What is Networking?  
+- Intro to LAN  
+- OSI Model  
+- Packets & Frames  
+- Extending Your Network  
 
 ---
 
 ### Objective
-Build a strong foundational understanding of how computer networks work, why they matter in cybersecurity, and how attackers and defenders use this knowledge to scan, secure, and monitor systems.
+Build a solid understanding of computer networking, from how devices communicate on a local network to how data travels across the internet. Learned the foundational concepts needed for cybersecurity work, including protocols, addressing, topologies, and packet structure.
 
 ---
 
 ### Key Takeaways
-- **Core networking concepts:** Learned how data moves across networks, the roles of switches, routers, firewalls, and how topologies (star, mesh, bus) impact reliability and security.  
-- **OSI vs TCP/IP models:** Gained a clear understanding of the layers, what each one is responsible for, and how issues are diagnosed (Packets? Routing? Encryption?).  
-- **IP addressing & subnetting:** Practiced breaking networks into subnets, understanding CIDR notation, and identifying usable host ranges — essential for scanning and isolating lab environments.  
-- **Ports & protocols:** Covered the most common ports (SSH, HTTP, HTTPS, DNS, RDP, SMB) and how protocols operate behind the scenes.  
-- **DNS & HTTP(S):** Learned how domain resolution works and how web traffic is structured, which is crucial for threat analysis, web exploitation, and log interpretation.  
-- **Practical cyber relevance:** Understood how attackers enumerate networks (port scans, service discovery) and how defenders detect suspicious connections, misconfigurations, or failed authentication attempts.
+
+#### **Module 1 — What is Networking?**
+- Understood how devices communicate and what makes a “network.”  
+- Learned the difference between the internet and local networks.  
+- Identified common network devices and how ICMP (Ping) is used to test connectivity.
+
+#### **Module 2 — Intro to LAN**
+- Explored LAN topologies (bus, star, mesh) and why modern networks prefer switched star designs.  
+- Learned the basics of **subnetting**, why subnets exist, and how they structure networks.  
+- Understood ARP (maps IP → MAC) and DHCP (assigns IPs automatically).
+
+#### **Module 3 — OSI Model**
+- Broke down the **7-layer OSI Model**, learning the role of each layer.  
+- Learned how data flows through Physical → Application layers.  
+- Practiced identifying which technologies/protocols belong to which layer.
+
+#### **Module 4 — Packets & Frames**
+- Understood how data is encapsulated as it moves through a network.  
+- Explored TCP/IP, including the **Three-Way Handshake (SYN → SYN-ACK → ACK)**.  
+- Learned the differences between **TCP (reliable)** and **UDP (fast, connectionless)**.  
+- Completed practical labs on ports and handshake analysis.
+
+#### **Module 5 — Extending Your Network**
+- Learned how **port forwarding** exposes internal services externally.  
+- Gained foundational knowledge of **firewalls**, basic rules, and packet filtering.  
+- Understood **VPN basics** and encryption tunnels.  
+- Explored LAN networking devices (modems, switches, routers) and used a network simulator to design small networks.
 
 ---
 
 ### Reflection
-This section was extremely important for my progress. Networking is the foundation of cybersecurity, and concepts like ports, IP addresses, TCP handshakes, and packet flow directly connect to the hands-on labs I’m building in VirtualBox (Nmap scans, SSH testing, packet captures, log correlation).  
-I now feel more confident reading network diagrams, understanding scan results, and building isolated home labs for safe testing.
+This module gave me a strong foundation in networking — one of the most important skills in cybersecurity. I now understand how networks are structured, how data moves through them, and how protocols and devices interact. This knowledge directly supports my hands-on labs and will be essential when I move into threat detection, packet analysis, and more advanced security topics.
 
 ---
 
 ### Next Step
-I’m close to completing **Google Cybersecurity Certificate — Course 2 (Play It Safe: Manage Security Risks)**, and I’ve now begun **TryHackMe Pre-Security Part 3 — How the Web Works**.
+Progressing to **Pre-Security Part 3 — How the Web Works**, while also completing **Google Cybersecurity Certificate (Course 2 — Play It Safe: Manage Security Risks).**
