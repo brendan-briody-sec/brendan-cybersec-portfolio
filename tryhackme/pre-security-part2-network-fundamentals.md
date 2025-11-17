@@ -3,6 +3,15 @@
 **Status:** Completed  
 **Date Completed:** 13-11-2025  
 **Modules Covered:**  
+- What is Networking?
+- Intro to LAN
+- OSI Model
+- Packets & Frames
+- Extending Your Network
+
+- HTTP in Detail
+- How Websites Work
+- Putting it all together
 - What Is Networking?  
 - Network Topologies  
 - Network Devices  
