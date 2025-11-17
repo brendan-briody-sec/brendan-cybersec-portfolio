@@ -5,17 +5,17 @@
 **Modules Covered:**  
 - Module 1: Security Domains  
 - Module 2: Security Frameworks and Controls  
-- Module 3: Use Playbooks to Respond to Incidents  
-- Module 4: Introduction to Cybersecurity Tools  
+- Module 3: Introduction to Cybersecurity Tools  
+- Module 4: Use Playbooks to Respond to Incidents
 
 ---
 
 ### Key Takeaways
 - **CISSP security domains:** Gained a deeper understanding of the **eight CISSP domains** and the core security areas entry-level analysts focus on most.  
 - **Threats, risks, and vulnerabilities:** Learned how to differentiate and analyse them in a structured way, including the **primary risks to business operations** and how they’re mitigated.  
-- **Security frameworks:** Explored the **CIA Triad**, **NIST RMF**, **NIST CSF**, and **OWASP** principles — and how organisations use these frameworks to standardise and strengthen security operations.  
+- **Security frameworks:** Explored the **CIA Triad**, **NIST RMF**, **NIST CSF**, and **OWASP** principles — and how organisations use these frameworks to standardise and strengthen security operations.
+- **Analyst tooling:** Introduction to **SIEM dashboards** and how entry-level analysts use them for log monitoring, alert triage, and basic investigation workflows. 
 - **Incident response:** Learned the **phases of incident response playbooks**, how analysts use structured playbooks during real events, and how playbooks support consistent detection, triage, and recovery.  
-- **Analyst tooling:** Introduction to **SIEM dashboards** and how entry-level analysts use them for log monitoring, alert triage, and basic investigation workflows.
 
 ---
 
