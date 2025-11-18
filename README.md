@@ -18,12 +18,6 @@
 ---
 
 <p align="center">
-  <img src="./assets/profile-cyber.gif" width="220" alt="Cyber-themed profile animation" title="Building my cybersecurity journey, one lab at a time">
-</p>
-
----
-
-<p align="center">
   <a href="https://www.linkedin.com/in/brendanbriody" title="Connect with me on LinkedIn">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
   </a>
