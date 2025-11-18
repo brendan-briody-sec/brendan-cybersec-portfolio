@@ -54,25 +54,25 @@ This module helped me understand exactly how websites function from the ground u
 ---
 
 ### Evidence
-Screenshots demonstrating the hands-on practical work completed in this module are stored in the **`evidence/`** folder. These include:
+Screenshots demonstrating the hands-on practical work completed in this module are stored in the **`evidence/`** folder. Click any heading below to view the corresponding file:
 
-- **DNS Lookup Practical**  
-  - Performing CNAME, TXT, MX and A record lookups (`nslookup` simulator)  
-  - *File:* `Practical - DNS in Detail - How The Web Works - Module 3.png`
+#### 🔗 [DNS Lookup Practical](evidence/Practical%20-%20DNS%20in%20Detail%20-%20How%20The%20Web%20Works%20-%20Module%203.png)
+- Performing CNAME, TXT, MX, and A record lookups using `nslookup`
+- Demonstrates understanding of DNS record types and DNS resolution flow
 
-- **HTTP Requests Practical**  
-  - Making GET, POST, PUT and DELETE requests and analysing server responses  
-  - *File:* `Making Requests - HTTP in Detail - How The Web Works - Module 3.png`
+#### 🔗 [HTTP Requests Practical](evidence/Making%20Requests%20-%20HTTP%20in%20Detail%20-%20How%20The%20Web%20Works%20-%20Module%203.png)
+- Sending GET, POST, PUT, DELETE requests
+- Analysing server responses, status codes, and headers
 
-- **Sensitive Data Exposure**  
-  - Viewing leaked credentials in the page’s source code  
-  - *File:* `Sensitive Data Exposure - How Websites Work - How The Web Works.png`
+#### 🔗 [Sensitive Data Exposure](evidence/Sensitive%20Data%20Exposure%20-%20How%20Websites%20Work%20-%20How%20The%20Web%20Works.png)
+- Inspecting page source to reveal leaked credentials
+- Demonstrates recognition of poor security practices
 
-- **HTML Injection**  
-  - Injecting malicious HTML into an unsanitised input field  
-  - *File:* `HTML Injection - How Websites Work - How The Web Works.png`
+#### 🔗 [HTML Injection](evidence/HTML%20Injection%20-%20How%20Websites%20Work%20-%20How%20The%20Web%20Works.png)
+- Injecting unsanitised HTML into a vulnerable input field
+- Shows understanding of client-side vulnerabilities
 
-These screenshots provide evidence of interacting with DNS tools, crafting HTTP requests, analysing responses, inspecting source code, and exploiting client-side vulnerabilities.
+These screenshots provide evidence of interacting with DNS tools, crafting HTTP requests, inspecting source code, and exploiting basic client-side vulnerabilities.
 
 ---
 
