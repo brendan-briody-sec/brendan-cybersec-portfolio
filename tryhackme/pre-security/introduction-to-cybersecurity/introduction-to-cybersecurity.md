@@ -28,7 +28,10 @@ This section helped me to understand the difference between offensive (ethical h
 ---
 
 ### Evidence
-This section 
+Supporting proof of completion for this module is available in the **`evidence/`** folder.
+
+#### 🔗 [TryHackMe — Introduction to Cybersecurity Completion Proof](evidence/tryhackme-intro-to-cybersecurity-complete-proof.png)
+- Screenshot verifying full completion of the “Introduction to Cybersecurity” module on TryHackMe.
 
 ---
 
