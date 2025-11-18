@@ -21,28 +21,20 @@
 
 Developing cybersecurity analyst based in Dublin, currently completing the Google Cybersecurity Professional [**Certificate**](https://www.coursera.org/account/accomplishments/verify/OL1CLCVOFN66) and building hands-on skills through [**TryHackMe**](https://tryhackme.com/p/brendanbriodysec) and my own [**Personal Labs**](https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/labs).
 
-This repository will document my journey — including:
-- Practical security labs & exercises (TryHackMe, Wireshark, networking, etc.)
-- Key takeaways from the Google Cybersecurity course
-- Real incident simulation notes & projects
-
-**Goal:** earn an entry-level cybersecurity role / SOC analyst position in 2025.
-
-
-
-
 This repository documents my practical, hands-on journey — including:
 
 - SOC-style detection and investigation labs  
 - Network analysis, Wireshark captures & attack simulations  
 - TryHackMe & Google Cybersecurity course progress  
-- Realistic security audits & projects  
+- Realistic security audits & projects
+- Real incident simulation notes & projects
+
+**Goal:** earn an entry-level cybersecurity role / SOC analyst position in 2025.
 
 
-
-
-
-
+This repository will document my journey — including:
+- Practical security labs & exercises (TryHackMe, Wireshark, networking, etc.)
+- Key takeaways from the Google Cybersecurity course
 
 
 
