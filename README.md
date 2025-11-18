@@ -15,7 +15,6 @@
   <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/labs" title="Browse my personal labs"><b>Personal Labs</b></a>.
 </p>
 
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brendanbriody" title="Connect with me on LinkedIn">
@@ -30,7 +29,6 @@
   <img src="https://img.shields.io/badge/Location-Dublin%2C%20Ireland-green" alt="Location" title="Based in Dublin, Ireland">
 </p>
 
----
 
 ## 🔍 What This Repository Contains
 
