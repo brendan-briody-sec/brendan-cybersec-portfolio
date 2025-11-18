@@ -4,7 +4,19 @@
   </a>
 </p>
 
-<!-- Optional cyber profile GIF (replace the path with your own GIF if needed) -->
+---
+
+<p align="center">
+  Developing cybersecurity analyst based in Dublin, currently completing the Google Cybersecurity Professional 
+  <a href="https://www.coursera.org/account/accomplishments/verify/OL1CLCVOFN66" title="View my Google Cybersecurity Certificate progress"><b>Certificate</b></a> 
+  and building hands-on skills through 
+  <a href="https://tryhackme.com/p/brendanbriodysec" title="My TryHackMe profile"><b>TryHackMe</b></a> 
+  and my own 
+  <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/labs" title="Browse my personal labs"><b>Personal Labs</b></a>.
+</p>
+
+---
+
 <p align="center">
   <img src="./assets/profile-cyber.gif" width="220" alt="Cyber-themed profile animation" title="Building my cybersecurity journey, one lab at a time">
 </p>
