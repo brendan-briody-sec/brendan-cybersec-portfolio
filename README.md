@@ -13,6 +13,11 @@
 
 # Brendan Briody — Cybersecurity Portfolio
 
+![GitHub last commit](https://img.shields.io/github/last-commit/brendan-briody-sec/brendan-cybersec-portfolio)
+![GitHub repo size](https://img.shields.io/github/repo-size/brendan-briody-sec/brendan-cybersec-portfolio)
+![Security Focus](https://img.shields.io/badge/Focus-Cybersecurity-blue)
+![Location](https://img.shields.io/badge/Location-Dublin%2C%20Ireland-green)
+
 Developing cybersecurity analyst based in Dublin, currently completing the Google Cybersecurity Professional [**Certificate**](https://www.coursera.org/account/accomplishments/verify/OL1CLCVOFN66) and building hands-on skills through [**TryHackMe**](https://tryhackme.com/p/brendanbriodysec) and my own [**Personal Labs**](https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/labs).
 
 This repository will document my journey — including:
