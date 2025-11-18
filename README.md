@@ -2,6 +2,17 @@
   <img src="./assets/banner3.png" style="height:280px; width:100%; object-fit:cover;">
 </p>
 
+
+
+<p align="center">
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanbriody)
+  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/brendanbriodysec)
+</p>
+
+
+
+
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanbriody)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/brendanbriodysec)
 
