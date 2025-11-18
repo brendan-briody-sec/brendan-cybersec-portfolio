@@ -2,6 +2,8 @@
   <img src="./assets/banner3.png" style="height:280px; width:100%; object-fit:cover;">
 </p>
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanbriody)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanbriody)
 
 
 # Brendan Briody — Cybersecurity Portfolio
