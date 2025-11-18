@@ -21,19 +21,6 @@
   <img src="./assets/profile-cyber.gif" width="220" alt="Cyber-themed profile animation" title="Building my cybersecurity journey, one lab at a time">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brendanbriody" title="Connect with me on LinkedIn">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  <a href="https://tryhackme.com/p/brendanbriodysec" title="View my TryHackMe profile">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white" alt="TryHackMe Badge">
-  </a>
-  <img src="https://img.shields.io/github/last-commit/brendan-briody-sec/brendan-cybersec-portfolio" alt="Last Commit" title="Last update to this portfolio">
-  <img src="https://img.shields.io/github/repo-size/brendan-briody-sec/brendan-cybersec-portfolio" alt="Repo Size" title="Repository size">
-  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue" alt="Security Focus" title="Primary focus: Cybersecurity">
-  <img src="https://img.shields.io/badge/Location-Dublin%2C%20Ireland-green" alt="Location" title="Based in Dublin, Ireland">
-</p>
-
 ---
 
 <p align="center">
@@ -48,7 +35,6 @@
   <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue" alt="Cybersecurity Focus" title="Primary focus: Cybersecurity">
   <img src="https://img.shields.io/badge/Location-Dublin%2C%20Ireland-green" alt="Location" title="Based in Dublin, Ireland">
 </p>
-
 
 ---
 
