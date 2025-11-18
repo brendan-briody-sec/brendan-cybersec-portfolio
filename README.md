@@ -31,13 +31,6 @@ This repository will document my journey — including:
 
 
 
-![GitHub last commit](https://img.shields.io/github/last-commit/brendan-briody-sec/brendan-cybersec-portfolio)
-![GitHub repo size](https://img.shields.io/github/repo-size/brendan-briody-sec/brendan-cybersec-portfolio)
-![Security Focus](https://img.shields.io/badge/Focus-Cybersecurity-blue)
-![Location](https://img.shields.io/badge/Location-Dublin%2C%20Ireland-green)
-
-
-
 This repository documents my practical, hands-on journey — including:
 
 - SOC-style detection and investigation labs  
