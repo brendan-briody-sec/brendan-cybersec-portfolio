@@ -102,6 +102,25 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ---
 
+## 🧰 Tools I Use
+
+<p align="center">
+
+  <!-- Operating Systems / Lab Environments -->
+  <img src="https://img.shields.io/badge/Kali%20Linux-Lab%20Use-blue?logo=kalilinux&logoColor=white&style=for-the-badge" title="Offensive tooling & testing in isolated labs">
+  <img src="https://img.shields.io/badge/Ubuntu-Server%20Lab-orange?logo=ubuntu&logoColor=white&style=for-the-badge" title="Server targets & Linux practice">
+  <img src="https://img.shields.io/badge/Windows-Endpoint%20Lab-blue?logo=windows&logoColor=white&style=for-the-badge" title="User endpoint behaviour & log exploration">
+  
+  <!-- Networking / Analysis -->
+  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1f425f?logo=wireshark&logoColor=white&style=for-the-badge" title="Packet capture & protocol analysis">
+  <img src="https://img.shields.io/badge/Nmap-Scanning%20%26%20Discovery-1f425f?logo=nmap&logoColor=white&style=for-the-badge" title="Port scanning & service discovery">
+
+  <!-- Platforms -->
+  <img src="https://img.shields.io/badge/TryHackMe-Hands--On%20Labs-success?logo=tryhackme&logoColor=white&style=for-the-badge" title="Guided cybersecurity learning labs">
+  <img src="https://img.shields.io/badge/VirtualBox-Lab%20Environment-informational?logo=virtualbox&logoColor=white&style=for-the-badge" title="Isolated virtualized lab environment">
+  <img src="https://img.shields.io/badge/GitHub-Version%20Control-black?logo=github&logoColor=white&style=for-the-badge" title="Documentation, version control, portfolio structure">
+
+</p>
 
 ---
 
