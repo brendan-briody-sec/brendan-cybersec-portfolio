@@ -35,29 +35,17 @@
 
 ---
 
-This repository documents my practical, hands-on journey — including:
+## 🔍 What This Repository Contains
 
-- SOC-style detection and investigation labs  
-- Network analysis, Wireshark captures & attack simulations  
-- TryHackMe & Google Cybersecurity course progress  
-- Realistic security audits & projects
-- Real incident simulation notes & projects
+This portfolio documents my **practical, hands-on journey into cybersecurity**, including:
 
-**Goal:** earn an entry-level cybersecurity role / SOC analyst position in 2025.
-
-
-This repository will document my journey — including:
-- Practical security labs & exercises (TryHackMe, Wireshark, networking, etc.)
-- Key takeaways from the Google Cybersecurity course
-
-
-
-
-
-
-
-
-
+- 🛡️ SOC-style **detection & investigation** labs  
+- 🌐 **Network analysis**, Wireshark captures & traffic inspection  
+- 🔓 **Attack simulations**, brute-force exercises & vulnerability exploration  
+- ☁️ **TryHackMe** progress (Pre-Security → Security → SOC skills)  
+- 📚 **Google Cybersecurity Certificate** takeaways and notes  
+- 📝 Realistic **security audit write-ups**  
+- 🚨 **Incident simulation reports** and documentation  
 
 ---
 
