@@ -86,7 +86,22 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 ---
 
 
+---
 
+## 🧪 Labs & Hands-On Practice
+
+<details>
+  <summary><b>Click to expand lab details</b></summary>
+  <br/>
+
+  - 🔐 **Home lab environments:** Kali attacker, vulnerable VMs, isolated networks  
+  - 📡 **Recon & scanning:** Nmap, basic enumeration, service discovery  
+  - 📁 **Evidence capture:** pcaps, auth logs, screenshots & markdown reports  
+  - 🧩 **Metasploitable / vulnerable targets:** SSH brute-force, weak configurations  
+  - 🧱 **Defensive focus:** log review, alert triage, thinking like a SOC analyst  
+</details>
+
+---
 
 # 📑 Table of Contents
 
