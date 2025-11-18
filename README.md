@@ -4,18 +4,11 @@
 
 
 
+
 <p align="center">
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanbriody)
-  [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/brendanbriodysec)
-</p>
-
-
-
-
-
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanbriody)
 [![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/brendanbriodysec)
-
+</p>
 
 
 # Brendan Briody — Cybersecurity Portfolio
