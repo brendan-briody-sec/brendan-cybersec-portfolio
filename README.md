@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./assets/banner3.png" style="width:100%; height:260px; object-fit:cover;">
+  <img src="./assets/banner3.png" style="width:100%; max-width:1100px; height:auto; display:block;">
 </p>
-
-
 
 <p align="center">
   <a href="https://www.linkedin.com/in/brendanbriody">
