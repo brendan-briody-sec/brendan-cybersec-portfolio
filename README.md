@@ -32,7 +32,7 @@
 
 ---
 
-# Table of Contents
+## Table of Contents
 
   - [🚀 Latest Progress](#latest-progress)
   - [🔐 Cybersecurity Projects](#-cybersecurity-projects)
