@@ -2,22 +2,6 @@
   <img src="./assets/banner3.png" style="width:100%; max-width:1100px; height:auto; display:block;">
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/brendanbriody">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
-  </a>
-  
-  <a href="https://tryhackme.com/p/brendanbriodysec">
-    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white" alt="TryHackMe Badge">
-  </a>
-</p>
-
-![GitHub last commit](https://img.shields.io/github/last-commit/brendan-briody-sec/brendan-cybersec-portfolio)
-![GitHub repo size](https://img.shields.io/github/repo-size/brendan-briody-sec/brendan-cybersec-portfolio)
-![Security Focus](https://img.shields.io/badge/Focus-Cybersecurity-blue)
-![Location](https://img.shields.io/badge/Location-Dublin%2C%20Ireland-green)
-
-
 
 
 
