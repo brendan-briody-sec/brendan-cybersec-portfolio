@@ -80,6 +80,7 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 </p>
 
+➡️ **All skills & tools →** [`/skills/README.md`](./skills/README.md)
 ---
 
 ## 🔧 Tools I Use
