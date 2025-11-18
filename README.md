@@ -58,6 +58,23 @@ This repository will document my journey — including:
 - [Roadmap](#-roadmap--coming-soon)
 - [Contact](#-contact--connect)
 
+
+
+
+<details>
+  <summary><strong>📑 Table of Contents</strong></summary>
+
+  - [🚀 Latest Progress](#latest-progress)
+  - [🔐 Cybersecurity Projects](#cybersecurity-projects)
+  - [🧪 Labs](#labs)
+  - [🧠 Hands-On Skills Progress](#hands-on-skills-progress)
+  - [🎓 Certifications](#certifications)
+  - [📂 Portfolio Navigation](#portfolio-navigation)
+  - [🛠️ Roadmap / Coming Soon](#roadmap--coming-soon)
+  - [📬 Contact & Connect](#contact--connect)
+</details>
+
+
 ---
 
 ## Latest Progress
