@@ -45,10 +45,6 @@
 
 ---
 
-
-
-
-
 ## 🔍 About
 
 This portfolio documents my **practical, hands-on journey into cybersecurity**, including:
@@ -132,36 +128,6 @@ This portfolio documents my hands-on journey into cybersecurity, with a strong f
   - 🧩 **Metasploitable / vulnerable targets:** SSH brute-force, weak configurations  
   - 🧱 **Defensive focus:** log review, alert triage, thinking like a SOC analyst  
 </details>
-
----
-
-# 📑 Table of Contents
-
-  - [🚀 Latest Progress](#latest-progress)
-  - [🔐 Cybersecurity Projects](#-cybersecurity-projects)
-  - [🧪 Labs](#labs)
-  - [🧠 Hands-On Skills Progress](#hands-on-skills-progress)
-  - [🎓 Certifications](#certifications)
-  - [📂 Portfolio Navigation](#portfolio-navigation)
-  - [🛠️ Roadmap / Coming Soon](#roadmap--coming-soon)
-  - [📬 Contact & Connect](#contact--connect)
-
-
-
-
-<details>
-  <summary><strong>📑 Table of Contents</strong></summary>
-
-  - [🚀 Latest Progress](#latest-progress)
-  - [🔐 Cybersecurity Projects](#-cybersecurity-projects)
-  - [🧪 Labs](#labs)
-  - [🧠 Hands-On Skills Progress](#hands-on-skills-progress)
-  - [🎓 Certifications](#certifications)
-  - [📂 Portfolio Navigation](#portfolio-navigation)
-  - [🛠️ Roadmap / Coming Soon](#roadmap--coming-soon)
-  - [📬 Contact & Connect](#contact--connect)
-</details>
-
 
 ---
 
