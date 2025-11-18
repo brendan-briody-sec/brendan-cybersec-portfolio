@@ -52,5 +52,13 @@ This module gave me a strong foundation in networking — one of the most import
 
 ---
 
+### Evidence
+Supporting proof of completion for this module is available in the **`evidence/`** folder.
+
+#### 🔗 [TryHackMe — Networking Nerd Completion Badge](evidence/tryhackme-networking-nerd-badge.png)
+- Badge demonstrating successful completion of the “Network Fundamentals” module on TryHackMe.
+
+---
+
 ### Next Step
 Progressing to **Pre-Security Part 3 — How the Web Works**, while also completing **Google Cybersecurity Certificate (Course 2 — Play It Safe: Manage Security Risks).**
