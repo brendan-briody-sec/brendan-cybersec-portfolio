@@ -59,23 +59,6 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ---
 
-## 🔍 What This Repository Contains
-
-This portfolio documents my hands-on journey into cybersecurity, with a strong focus on:
-
-- SOC-style detection, investigation, and defensive analysis  
-- Network fundamentals, traffic inspection, and Wireshark analysis  
-- Vulnerability exploration and safe attack simulations  
-- Google Cybersecurity Professional Certificate progress  
-- TryHackMe labs covering networking, Linux, and web fundamentals  
-- Evidence-backed lab reports, screenshots, logs, and documentation  
-
-
-
-
-
-
-
 
 ## 🧠 Skills Overview
 
