@@ -2,9 +2,6 @@
   <img src="./assets/banner3.png" style="width:100%; max-width:1100px; height:auto; display:block;">
 </p>
 
-
-
-
 <p align="center">
   <a href="https://www.linkedin.com/in/brendanbriody">
     <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
@@ -21,17 +18,14 @@
   <img src="https://img.shields.io/badge/Location-Dublin%2C%20Ireland-green" alt="Location">
 </p>
 
-
-
-
-
-
-
-
-
-
-
-Developing cybersecurity analyst based in Dublin, currently completing the Google Cybersecurity Professional [**Certificate**](https://www.coursera.org/account/accomplishments/verify/OL1CLCVOFN66) and building hands-on skills through [**TryHackMe**](https://tryhackme.com/p/brendanbriodysec) and my own [**Personal Labs**](https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/labs).
+<p align="center">
+  Developing cybersecurity analyst based in Dublin, currently completing the Google Cybersecurity Professional 
+  <a href="https://www.coursera.org/account/accomplishments/verify/OL1CLCVOFN66"><b>Certificate</b></a> 
+  and building hands-on skills through 
+  <a href="https://tryhackme.com/p/brendanbriodysec"><b>TryHackMe</b></a> 
+  and my own 
+  <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/labs"><b>Personal Labs</b></a>.
+</p>
 
 This repository documents my practical, hands-on journey — including:
 
