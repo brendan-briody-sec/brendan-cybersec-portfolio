@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/brendan-briody-sec" title="Visit my GitHub profile">
-    <img src="./assets/banner3.png" width="100%" style="max-width:1100px; height:auto;" alt="Brendan Briody Cybersecurity Portfolio Banner">
+    <img src="./assets/banner5.png" width="100%" style="max-width:1100px; height:auto;" alt="Brendan Briody Cybersecurity Portfolio Banner">
   </a>
 </p>
 
