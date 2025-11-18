@@ -26,6 +26,14 @@ A security audit assessing asset management, access controls, encryption, backup
 
 ---
 
+## 🧪 Labs
+
+- **Metasploitable2 — SSH Brute-Force Lab (Nov 7, 2025)**  
+  Full attack-to-defence workflow using Kali → brute-forced SSH on Metasploitable2 → analysed logs → confirmed intrusion → implemented fixes.  
+  👉 [**View Lab Report**](https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/blob/main/labs/metasploitable-ssh-lab/README.md "Metasploitable2 — SSH brute-force (Nov 7, 2025) — evidence and PCAPs")
+
+---
+
 ## 🧠 Hands-On Skills Progress
 
 A living log of the skills I’m actively building through labs, courses, and write-ups.  
