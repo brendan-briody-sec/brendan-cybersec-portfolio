@@ -32,6 +32,23 @@
 
 ---
 
+# Table of Contents
+
+  - [🚀 Latest Progress](#latest-progress)
+  - [🔐 Cybersecurity Projects](#-cybersecurity-projects)
+  - [🧪 Labs](#labs)
+  - [🧠 Hands-On Skills Progress](#hands-on-skills-progress)
+  - [🎓 Certifications](#certifications)
+  - [📂 Portfolio Navigation](#portfolio-navigation)
+  - [🛠️ Roadmap / Coming Soon](#roadmap--coming-soon)
+  - [📬 Contact & Connect](#contact--connect)
+
+---
+
+
+
+
+
 ## 🔍 What This Repository Contains
 
 This portfolio documents my **practical, hands-on journey into cybersecurity**, including:
