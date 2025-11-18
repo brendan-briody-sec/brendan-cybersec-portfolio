@@ -49,7 +49,7 @@
 
 
 
-## 🔍 What This Repository Contains
+## 🔍 About
 
 This portfolio documents my **practical, hands-on journey into cybersecurity**, including:
 
@@ -63,7 +63,7 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ---
 
-## 🔍 About
+## 🔍 What This Repository Contains
 
 This portfolio documents my hands-on journey into cybersecurity, with a strong focus on:
 
