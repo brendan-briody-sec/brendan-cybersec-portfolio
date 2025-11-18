@@ -17,6 +17,36 @@
 ![Security Focus](https://img.shields.io/badge/Focus-Cybersecurity-blue)
 ![Location](https://img.shields.io/badge/Location-Dublin%2C%20Ireland-green)
 
+
+
+
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/brendanbriody">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://tryhackme.com/p/brendanbriodysec">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white" alt="TryHackMe Badge">
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/github/last-commit/brendan-briody-sec/brendan-cybersec-portfolio" alt="Last Commit">
+  <img src="https://img.shields.io/github/repo-size/brendan-briody-sec/brendan-cybersec-portfolio" alt="Repo Size">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue" alt="Security Focus">
+  <img src="https://img.shields.io/badge/Location-Dublin%2C%20Ireland-green" alt="Location">
+</p>
+
+
+
+
+
+
+
+
+
+
+
 Developing cybersecurity analyst based in Dublin, currently completing the Google Cybersecurity Professional [**Certificate**](https://www.coursera.org/account/accomplishments/verify/OL1CLCVOFN66) and building hands-on skills through [**TryHackMe**](https://tryhackme.com/p/brendanbriodysec) and my own [**Personal Labs**](https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/labs).
 
 This repository documents my practical, hands-on journey — including:
