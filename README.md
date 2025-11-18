@@ -65,7 +65,7 @@ This repository will document my journey — including:
   <summary><strong>📑 Table of Contents</strong></summary>
 
   - [🚀 Latest Progress](#latest-progress)
-  - [🔐 Cybersecurity Projects](#cybersecurity-projects)
+  - [🔐 Cybersecurity Projects](#-cybersecurity-projects)
   - [🧪 Labs](#labs)
   - [🧠 Hands-On Skills Progress](#hands-on-skills-progress)
   - [🎓 Certifications](#certifications)
