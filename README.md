@@ -3,7 +3,8 @@
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanbriody)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-000000?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brendanbriody)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white)](https://tryhackme.com/p/brendanbriodysec)
+
 
 
 # Brendan Briody — Cybersecurity Portfolio
