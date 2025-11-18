@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="./assets/banner.png" style="width:100%; max-height:280px; object-fit:cover; border-radius:6px;">
+  <img src="./assets/banner.png" width="85%">
 </p>
+
 
 
 # Brendan Briody — Cybersecurity Portfolio
