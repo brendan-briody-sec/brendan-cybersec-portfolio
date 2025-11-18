@@ -12,8 +12,6 @@
   </a>
 </p>
 
-# Brendan Briody — Cybersecurity Portfolio
-
 ![GitHub last commit](https://img.shields.io/github/last-commit/brendan-briody-sec/brendan-cybersec-portfolio)
 ![GitHub repo size](https://img.shields.io/github/repo-size/brendan-briody-sec/brendan-cybersec-portfolio)
 ![Security Focus](https://img.shields.io/badge/Focus-Cybersecurity-blue)
