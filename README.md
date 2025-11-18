@@ -76,6 +76,26 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ---
 
+## 🧠 Skills
+
+<p align="center">
+
+  <!-- SOC / Defensive -->
+  <img src="https://img.shields.io/badge/SOC%20Analysis-Developing-blue?style=for-the-badge" title="Log analysis, alert triage, basic correlation">
+  <img src="https://img.shields.io/badge/Threat%20Detection-Developing-blue?style=for-the-badge" title="Identifying suspicious activity through logs & tools">
+
+  <!-- Networking -->
+  <img src="https://img.shields.io/badge/Network%20Fundamentals-In%20Progress-blue?style=for-the-badge" title="TCP/IP, ports, protocols, DNS, HTTP, routing basics">
+  <img src="https://img.shields.io/badge/Wireshark%20Analysis-In%20Progress-blue?style=for-the-badge" title="Packet inspection & protocol analysis">
+
+  <!-- Linux -->
+  <img src="https://img.shields.io/badge/Linux%20%2F%20CLI-Comfortable-blue?style=for-the-badge" title="Filesystem navigation, permissions, basic bash commands">
+
+  <!-- Security Concepts -->
+  <img src="https://img.shields.io/badge/Incident%20Documentation-Strong-blue?style=for-the-badge" title="Clear, structured lab & incident reporting">
+  <img src="https://img.shields.io/badge/Vulnerability%20Exploration-Beginner-lightgrey?style=for-the-badge" title="Safe exploration of vulnerabilities in controlled labs">
+
+</p>
 
 
 ## 🔧 Tools I Use
