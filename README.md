@@ -37,13 +37,18 @@
 ---
 
 <p align="center">
-  Developing cybersecurity analyst based in Dublin, currently completing the Google Cybersecurity Professional 
-  <a href="https://www.coursera.org/account/accomplishments/verify/OL1CLCVOFN66" title="View my Google Cybersecurity Certificate progress"><b>Certificate</b></a> 
-  and building hands-on skills through 
-  <a href="https://tryhackme.com/p/brendanbriodysec" title="My TryHackMe profile"><b>TryHackMe</b></a> 
-  and my own 
-  <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/labs" title="Browse my personal labs"><b>Personal Labs</b></a>.
+  <a href="https://www.linkedin.com/in/brendanbriody" title="Connect with me on LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white" alt="LinkedIn Badge">
+  </a>
+  <a href="https://tryhackme.com/p/brendanbriodysec" title="View my TryHackMe profile">
+    <img src="https://img.shields.io/badge/TryHackMe-Profile-red?logo=tryhackme&logoColor=white" alt="TryHackMe Badge">
+  </a>
+  <img src="https://img.shields.io/github/last-commit/brendan-briody-sec/brendan-cybersec-portfolio" alt="Last Commit" title="Last update to this portfolio">
+  <img src="https://img.shields.io/github/repo-size/brendan-briody-sec/brendan-cybersec-portfolio" alt="Repo Size" title="Repository size">
+  <img src="https://img.shields.io/badge/Focus-Cybersecurity-blue" alt="Cybersecurity Focus" title="Primary focus: Cybersecurity">
+  <img src="https://img.shields.io/badge/Location-Dublin%2C%20Ireland-green" alt="Location" title="Based in Dublin, Ireland">
 </p>
+
 
 ---
 
