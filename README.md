@@ -181,6 +181,18 @@ A living log of the skills I’m actively building through labs, courses, and wr
 - [Google Cybersecurity Certificate — Course 1 (Foundations of Cybersecurity) ✅](https://www.coursera.org/account/accomplishments/verify/OL1CLCVOFN66 "Verify Certificate")
 - [Google Cybersecurity Certificate — Course 2 (Play It Safe: Manage Security Risks) ✅](https://www.coursera.org/account/accomplishments/verify/8C25393OBHUY "Verify Certificate")
 
+---
+
+## 🎯 Goal for 2025
+
+Secure an **entry-level cybersecurity analyst / SOC analyst** role by continuing to build real-world skills through:
+
+- Hands-on labs and home lab projects  
+- Continuous progress through TryHackMe and the Google Cybersecurity Certificate  
+- Evidence-backed documentation, reporting, and defensive analysis  
+- Expanding knowledge in networking, Linux, and SOC workflows  
+
+My focus is on developing practical, job-ready defensive skills that translate directly into real SOC environments.
 
 ---
 
