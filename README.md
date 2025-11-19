@@ -87,24 +87,6 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 ## 🔧 Tools I Use
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Kali%20Linux-Lab%20Use-blue?logo=kalilinux&logoColor=white" alt="Kali Linux" title="Offensive tooling & testing in isolated labs">
-  <img src="https://img.shields.io/badge/Ubuntu-Server%20Lab-orange?logo=ubuntu&logoColor=white" alt="Ubuntu" title="Server-side targets & services">
-  <img src="https://img.shields.io/badge/Windows-Endpoint%20Lab-blue?logo=windows&logoColor=white" alt="Windows" title="User endpoint behaviour & logs">
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Wireshark-Network%20Analysis-1f425f?logo=wireshark&logoColor=white" alt="Wireshark" title="Packet capture & protocol analysis">
-  <img src="https://img.shields.io/badge/Nmap-Scanning%20%26%20Discovery-1f425f?logo=nmap&logoColor=white" alt="Nmap" title="Port scanning & service discovery">
-  <img src="https://img.shields.io/badge/TryHackMe-Learning%20Labs-success?logo=tryhackme&logoColor=white" alt="TryHackMe" title="Guided hands-on cybersecurity training">
-  <img src="https://img.shields.io/badge/VirtualBox-Lab%20Environment-informational?logo=virtualbox&logoColor=white" alt="VirtualBox" title="Isolated lab environments & snapshots">
-  <img src="https://img.shields.io/badge/GitHub-Portfolio%20%26%20Version%20Control-black?logo=github&logoColor=white" alt="GitHub" title="Documentation, version control & portfolio">
-</p>
-
----
-
-## 🧰 Tools I Use
-
-<p align="center">
 
   <!-- Operating Systems / Lab Environments -->
   <img src="https://img.shields.io/badge/Kali%20Linux-Lab%20Use-blue?logo=kalilinux&logoColor=white&style=for-the-badge" title="Offensive tooling & testing in isolated labs">
