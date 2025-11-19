@@ -193,6 +193,9 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 ### 📁 All Labs
 ➡️ <a href="./labs">View all labs</a>
 
+➡️ **All Labs →** <a href="./labs">View all labs</a>
+
+
 ---
 
 
