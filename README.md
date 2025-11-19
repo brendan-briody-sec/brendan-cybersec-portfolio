@@ -157,6 +157,12 @@ A security audit assessing asset management, access controls, encryption, backup
 
 ---
 
+## 🎓 Certifications
+- [Google Cybersecurity Certificate — Course 1 (Foundations of Cybersecurity) ✅](https://www.coursera.org/account/accomplishments/verify/OL1CLCVOFN66 "Verify Certificate")
+- [Google Cybersecurity Certificate — Course 2 (Play It Safe: Manage Security Risks) ✅](https://www.coursera.org/account/accomplishments/verify/8C25393OBHUY "Verify Certificate")
+
+---
+
 ## 🧠 Hands-On Skills Progress
 
 A living log of the skills I’m actively building through labs, courses, and write-ups.  
