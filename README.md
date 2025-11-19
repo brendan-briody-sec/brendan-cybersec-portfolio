@@ -128,7 +128,7 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ### ⭐ Latest
 - <a href="./labs/metasploitable2-ssh-bruteforce" style="font-weight: bold;">Metasploitable2 — SSH Brute-Force Lab</a>  
-  Hands-on attack simulation with enumeration, Hydra brute-force attempt, SSH troubleshooting, log analysis, and defensive mitigation (fail2ban).
+  Full attack-to-defence workflow using Kali → brute-forced SSH on Metasploitable2 → analysed logs → confirmed intrusion → implemented fixes. 
 
 ➡️ **All Labs →** <a href="./labs">View all labs</a>
 
@@ -140,14 +140,6 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 A security audit assessing asset management, access controls, encryption, backups, and compliance posture. Includes a completed controls & compliance checklist and risk recommendations.
 
 📂 [View Project Folder](./cyber-projects/google-cyber-cert/botium-toys-audit)
-
----
-
-## 🧪 Labs
-
-- **Metasploitable2 — SSH Brute-Force Lab (Nov 7, 2025)**  
-  Full attack-to-defence workflow using Kali → brute-forced SSH on Metasploitable2 → analysed logs → confirmed intrusion → implemented fixes.  
-  👉 [**View Lab Report**](https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/blob/main/labs/metasploitable-ssh-lab/README.md "Metasploitable2 — SSH brute-force (Nov 7, 2025) — evidence and PCAPs")
 
 ---
 
