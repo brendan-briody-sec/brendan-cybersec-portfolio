@@ -59,7 +59,7 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ---
 
-## 🧠 Skills
+## 🧠 Skills I Have
 
 <p align="center">
 
