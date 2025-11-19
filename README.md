@@ -163,26 +163,6 @@ A security audit assessing asset management, access controls, encryption, backup
 
 ---
 
-## 🧠 Hands-On Skills Progress
-
-A living log of the skills I’m actively building through labs, courses, and write-ups.  
-**Last Updated:** 2025-11-02
-
-### Latest (2)
-- **Networking – Subnetting & CIDR** · applied in *TryHackMe: Network Fundamentals* → simple subnet plans for small networks.
-- **Security Documentation – Audit Checklists** · built scope/goals/risk items for *Botium Toys* and documented evidence.
-
-
-➡️ **All skills & tools →** [`/skills/README.md`](./skills/README.md)
-
----
-
-## 🎓 Certifications
-- [Google Cybersecurity Certificate — Course 1 (Foundations of Cybersecurity) ✅](https://www.coursera.org/account/accomplishments/verify/OL1CLCVOFN66 "Verify Certificate")
-- [Google Cybersecurity Certificate — Course 2 (Play It Safe: Manage Security Risks) ✅](https://www.coursera.org/account/accomplishments/verify/8C25393OBHUY "Verify Certificate")
-
----
-
 ## 🎯 Goal for 2025
 
 Secure an **entry-level cybersecurity analyst / SOC analyst** role by continuing to build real-world skills through:
@@ -193,18 +173,6 @@ Secure an **entry-level cybersecurity analyst / SOC analyst** role by continuing
 - Expanding knowledge in networking, Linux, and SOC workflows  
 
 My focus is on developing practical, job-ready defensive skills that translate directly into real SOC environments.
-
----
-
-### Portfolio Navigation
-📂 **Certifications:**  
-[Google Cybersecurity Progress](./certs)
-
-📂 **Practical Labs (TryHackMe):**  
-[Hands-on TryHackMe Labs](./tryhackme)
-
- 📂 **Cybersecurity Projects:**  
-[Botium Toys Security Audit](./cyber-projects/google-cyber-cert/botium-toys-audit)
 
 ---
 
