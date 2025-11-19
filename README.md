@@ -48,7 +48,7 @@
 <p align="center">
   <b>Quick Navigation</b><br>
   <a href="#about">🔍 About</a> • 
-  <a href="#skills">🧠 Skills</a> • 
+  <a href="#skills-i-have">🧠 Skills</a> • 
   <a href="#tools-i-use">🧰 Tools</a> • 
   <a href="#🚀-latest-progress">🚀 Latest Progress</a> •
   <a href="#labs">🧪 Labs</a> • 
