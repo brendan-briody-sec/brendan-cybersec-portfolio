@@ -124,64 +124,6 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ---
 
-## 🧪 Labs & Hands-On Practice
-
-<details>
-  <summary><b>Click to expand lab details</b></summary>
-  <br/>
-
-  - 🔐 **Home lab environments:** Kali attacker, vulnerable VMs, isolated networks  
-  - 📡 **Recon & scanning:** Nmap, basic enumeration, service discovery  
-  - 📁 **Evidence capture:** pcaps, auth logs, screenshots & markdown reports  
-  - 🧩 **Metasploitable / vulnerable targets:** SSH brute-force, weak configurations  
-  - 🧱 **Defensive focus:** log review, alert triage, thinking like a SOC analyst  
-</details>
-
----
-
-## 🧪 Labs
-
-- **Metasploitable2 — SSH Brute-Force Lab (Nov 7, 2025)**  
-  Full attack-to-defence workflow using Kali → brute-forced SSH on Metasploitable2 → analysed logs → confirmed intrusion → implemented fixes.  
-  👉 [**View Lab Report**](https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/blob/main/labs/metasploitable-ssh-lab/README.md "Metasploitable2 — SSH brute-force (Nov 7, 2025) — evidence and PCAPs")
-
----
-
-## 🧪 Labs
-
-<details>
-  <summary><b>Click to expand my hands-on cybersecurity labs</b></summary>
-  <br/>
-
-  ### 🔐 SOC & Defensive Labs
-  - **Metasploitable2 SSH Brute-Force Lab**  
-    - Recon, enumeration, Hydra brute-force attempt  
-    - SSH login issues & host key mismatch troubleshooting  
-    - Log analysis + defensive mitigation (fail2ban)  
-    - 🔗 <a href="./labs/metasploitable-ssh-lab">View Lab</a>
-
-  - **Network Discovery & Logging Lab**  
-    - Nmap scanning, service discovery & network mapping  
-    - Wireshark packet captures & protocol inspection  
-    - 🔗 <a href="./labs/discovery-logging-lab">View Lab</a>
-
-
-  ### 🌐 Networking & Web Labs
-  - **How The Web Works (TryHackMe)**  
-    - HTTP requests, responses, headers & basic web analysis  
-    - 🔗 <a href="./labs/how-the-web-works">View Lab</a>
-
-
-  ### 📄 Evidence-Based Reports
-  - Screenshots, pcaps, logs, and markdown reports  
-  - All evidence stored in dedicated folders per lab  
-  - 🔗 <a href="./labs">Browse All Labs</a>
-
-</details>
-
-
----
-
 ## 🧪 Labs
 
 ### ⭐ Latest
@@ -191,15 +133,6 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 ➡️ **All Labs →** <a href="./labs">View all labs</a>
 
 ---
-
-### 📁 All Labs
-➡️ <a href="./labs">View all labs</a>
-
-➡️ **All Labs →** <a href="./labs">View all labs</a>
-
-
----
-
 
 ## Latest Progress
 ✅ Completed Google Cybersecurity Certificate — Course 1 (Foundations of Cybersecurity) TryHackMe: (Pre-Security) - Module 1 & 2         
