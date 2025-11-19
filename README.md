@@ -182,8 +182,18 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ---
 
+## 🧪 Labs
 
+### ⭐ Latest
+- <a href="./labs/metasploitable2-ssh-bruteforce" style="font-weight: bold;">Metasploitable2 — SSH Brute-Force Lab</a>  
+  Hands-on attack simulation with enumeration, Hydra brute-force attempt, SSH troubleshooting, log analysis, and defensive mitigation (fail2ban).
 
+---
+
+### 📁 All Labs
+➡️ <a href="./labs">View all labs</a>
+
+---
 
 
 ## Latest Progress
