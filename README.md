@@ -130,6 +130,25 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ---
 
+
+## 🚀 Latest Progress
+
+- **Completed:** Metasploitable2 SSH Brute-Force Lab  
+  <a href="./labs/metasploitable2-ssh-bruteforce"><b>View Lab</b></a>
+
+- **Google Cybersecurity Certificate:** Course 2 completed — “Play It Safe: Manage Security Risks”  
+  <a href="./certs/google-course-2-play-it-safe-manage-security-risks.md"><b>View Certificate</b></a>
+
+- **TryHackMe:** Currently progressing through **Network Fundamentals (How The Web Works)**  
+  <a href="https://tryhackme.com/p/brendanbriodysec"><b>View Profile</b></a>
+
+- **Labs:** Building out my home cybersecurity lab (Kali, Ubuntu, Windows, isolated networks)
+
+---
+
+
+
+
 ## 🔐 Cybersecurity Projects
 
 ### Latest: Botium Toys Security Audit (Google Cybersecurity Certificate)
