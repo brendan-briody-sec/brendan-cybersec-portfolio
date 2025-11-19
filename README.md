@@ -108,6 +108,12 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ---
 
+## Latest Progress
+✅ Completed Google Cybersecurity Certificate — Course 1 (Foundations of Cybersecurity) TryHackMe: (Pre-Security) - Module 1 & 2         
+🚀 Currently studying: Google Course 2 + TryHackMe Pre-Security (How The Web Works)
+
+---
+
 ## 🧪 Labs
 
 ### ⭐ Latest
