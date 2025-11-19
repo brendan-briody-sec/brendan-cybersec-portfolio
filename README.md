@@ -108,6 +108,27 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ---
 
+## 🚀 Latest Progress
+
+1. **TryHackMe — How The Web Works**  
+   Currently completing the networking module within the Pre-Security path.  
+   🔗 <a href="https://tryhackme.com/p/brendanbriodysec"><b>View TryHackMe Profile</b></a>
+
+2. **Google Cybersecurity Certificate — Course 2: Play It Safe (Completed)**  
+   Focused on risk management, controls, frameworks, and practical auditing.  
+   🔗 <a href="./certs/google-course-2-play-it-safe-manage-security-risks.md"><b>View Certificate</b></a>
+
+3. **Metasploitable2 — SSH Brute-Force Lab (Completed)**  
+   Enumeration → Hydra brute-force → SSH troubleshooting → log review → defensive mitigation (fail2ban).  
+   🔗 <a href="./labs/metasploitable2-ssh-bruteforce"><b>View Lab</b></a>
+
+---
+
+
+
+
+
+
 ## Latest Progress
 ✅ Completed Google Cybersecurity Certificate — Course 1 (Foundations of Cybersecurity) TryHackMe: (Pre-Security) - Module 1 & 2         
 🚀 Currently studying: Google Course 2 + TryHackMe Pre-Security (How The Web Works)
