@@ -141,7 +141,7 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 ## 🧪 Labs
 
 ### ⭐ Latest 
-** ⭐ Latest →** 
+**⭐ Latest →** 
 - <a href="./labs/metasploitable2-ssh-bruteforce" style="font-weight: bold;">Metasploitable2 — SSH Brute-Force Lab</a>  
   Full attack-to-defence workflow using Kali → brute-forced SSH on Metasploitable2 → analysed logs → confirmed intrusion → implemented fixes. 
 
