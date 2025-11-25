@@ -123,11 +123,9 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 3. **Metasploitable2 — SSH Brute-Force Lab ✅**  
    Enumeration → Hydra brute-force → SSH troubleshooting → log review → defensive mitigation (fail2ban).  
-   🔗 <a href="./labs/metasploitable-ssh-bruteforce"><b>View Lab</b></a>
+   🔗 <a href="./labs/metasploitable-ssh-lab/"><b>View Lab</b></a>
 
 ---
-/labs
-/metasploitable-ssh-lab/
 
 ## 🧪 Labs
 
