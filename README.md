@@ -46,7 +46,7 @@
 ---
 
 <p align="center">
-  <span style="font-size: 32px; font-weight: bold;">Quick Navigation</span><br>
+  <h2 align="center">Quick Navigation</h2>
   <a href="#about">🔍 About</a> • 
   <a href="#skills-i-have">🧠 Skills</a> • 
   <a href="#tools-i-use">🧰 Tools</a> • 
