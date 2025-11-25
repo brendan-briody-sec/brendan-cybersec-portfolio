@@ -114,8 +114,8 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 ## 🚀 Latest Progress
 
 1. **TryHackMe — How The Web Works**  
-   Gained a deep understanding of how the web functions behind the scenes. 
- 🔗 <a href="tryhackme/pre-security/how-the-web-works/how-the-web-works.md"><b>View Write-Up</b></a>
+   Gained a deep understanding of how the web functions behind the scenes.  
+   🔗 <a href="tryhackme/pre-security/how-the-web-works/how-the-web-works.md"><b>View Write-Up</b></a>
 
 2. **Google Cybersecurity Certificate — Course 2: Play It Safe (Completed)**  
    Focused on risk management, controls, frameworks, and practical auditing.  
@@ -126,6 +126,7 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
    🔗 <a href="./labs/metasploitable2-ssh-bruteforce"><b>View Lab</b></a>
 
 ---
+
 
 ## 🧪 Labs
 
