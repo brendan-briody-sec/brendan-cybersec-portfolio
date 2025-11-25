@@ -45,8 +45,9 @@
 
 ---
 
+<h2 align="center">Quick Navigation</h2>
+
 <p align="center">
-  <h2 align="center">Quick Navigation</h2>
   <a href="#about">🔍 About</a> • 
   <a href="#skills-i-have">🧠 Skills</a> • 
   <a href="#tools-i-use">🧰 Tools</a> • 
@@ -56,6 +57,7 @@
   <a href="#certifications--learning">📚 Certifications</a> • 
   <a href="#goal-for-2025">🎯 Goal</a>
 </p>
+
 
 ---
 
