@@ -48,16 +48,16 @@
 <h2 align="center">Quick Navigation</h2>
 
 <p align="center">
-  <a href="#about">🔍 About</a> • 
-  <a href="#skills-i-have">🧠 Skills</a> • 
-  <a href="#tools-i-use">🧰 Tools</a> • 
-  <a href="#🚀-latest-progress">🚀 Latest Progress</a> •
-  <a href="#labs">🧪 Labs</a> • 
-  <a href="#projects--reports">📂 Projects</a> • 
-  <a href="#certifications--learning">📚 Certifications</a> • 
-  <a href="#goal-for-2025">🎯 Goal</a>
+  <a href="#-about">🔍 About</a> • 
+  <a href="#-skills-i-have">🧠 Skills</a> • 
+  <a href="#-tools-i-use">🧰 Tools</a> • 
+  <a href="#-latest-progress">🚀 Latest Progress</a> •
+  <a href="#-labs">🧪 Labs</a> • 
+  <a href="#-cybersecurity-projects">📂 Projects</a> • 
+  <a href="#-certifications">📚 Certifications</a> • 
+  <a href="#-goal-for-2025">🎯 Goal</a> •
+  <a href="#-contact--connect">📬 Contact</a>
 </p>
-
 
 ---
 
