@@ -32,7 +32,7 @@
 
 ---
 
-<h2 align="center">Quick Navigation</h2>
+<h3 align="center">Quick Navigation</h3>
 
 <p align="center">
   <a href="#-about">🔍 About</a> • 
