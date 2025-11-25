@@ -114,7 +114,7 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 ## 🚀 Latest Progress
 
 1. **TryHackMe — How The Web Works**  
-   Currently completing the networking module within the Pre-Security path.  
+   Gained a deep understanding of how the web functions behind the scenes. 
    🔗 <a href="tryhackme/pre-security/how-the-web-works/how-the-web-works.md"><b>View Write-Up</b></a>
 
 2. **Google Cybersecurity Certificate — Course 2: Play It Safe (Completed)**  
