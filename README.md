@@ -115,7 +115,7 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 1. **TryHackMe — How The Web Works**  
    Currently completing the networking module within the Pre-Security path.  
-   🔗 <a href="https://tryhackme.com/p/brendanbriodysec"><b>View TryHackMe Profile</b></a>
+   🔗 <a href="how-the-web-works.md"><b>View TryHackMe Profile</b></a>
 
 2. **Google Cybersecurity Certificate — Course 2: Play It Safe (Completed)**  
    Focused on risk management, controls, frameworks, and practical auditing.  
