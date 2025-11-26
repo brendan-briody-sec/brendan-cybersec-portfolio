@@ -158,6 +158,7 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
   Full attack-to-defence workflow using Kali → brute-forced SSH on Metasploitable2 → analysed logs → confirmed intrusion → implemented fixes.
 
 ➡️ **All Labs →** <a href="./labs">View all labs</a>
+
 ---
 
 ## 🔐 Cybersecurity Projects
