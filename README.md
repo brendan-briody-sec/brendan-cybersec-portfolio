@@ -10,7 +10,7 @@
   Developing SOC analyst based in Dublin, building real defensive skills through the Google Cybersecurity 
   <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/certs" title="View my Google Cybersecurity Certificate progress"><b>Certificate</b></a>,
   hands-on learning on 
-  <a href="[https://tryhackme.com/p/brendanbriodysec](https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/tryhackme)" title="TryHackMe progress"><b>TryHackMe</b></a>,
+  <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/tryhackme" title="TryHackMe progress"><b>TryHackMe</b></a>,
   and my own personal 
   <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/cyber-projects" title="Browse my personal projects"><b>Projects</b></a> 
   and 
