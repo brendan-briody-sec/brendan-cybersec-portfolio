@@ -1,5 +1,8 @@
 # Metasploitable2 — SSH brute-force lab (Nov 7, 2025)
 
+## 🔎 View Full Lab Report
+➡️ **[Click here to view the complete step-by-step lab report](./lab-report.md)**
+
 **Date:** Nov 7, 2025  
 **Author:** Brendan Briody
 
@@ -61,3 +64,6 @@ This home-lab covers scanning the target to discover services, attempting a cont
 ## Notes & next steps
 - **Safety:** All testing was done on an isolated Host-Only network. Do not run these scans against systems you do not own.  
 - Next labs: demonstrate detection (log correlation), install `fail2ban` on target and re-test, and create a GitHub lab report with step-by-step commands + timestamps.
+
+## 🔎 View Full Lab Report
+➡️ **[Click here to view the complete step-by-step lab report](./lab-report.md)**
