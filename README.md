@@ -65,7 +65,7 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ---
 
-## 🛡️ What I Can Do Today
+<h2 id="what-i-can-do-today">🛡️ What I Can Do Today</h2>
 
 - Analyse authentication logs to identify suspicious activity or brute-force attempts  
 - Capture, filter and interpret network traffic using Wireshark  
