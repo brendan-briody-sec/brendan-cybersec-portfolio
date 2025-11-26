@@ -145,14 +145,6 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ## 🧪 Labs
 
-**⭐ Latest →** 
-- <a href="./labs/metasploitable-ssh-lab/" style="font-weight: bold;">Metasploitable2 — SSH Brute-Force Lab</a>
-   Full attack-to-defence workflow using Kali → brute-forced SSH on Metasploitable2 → analysed logs → confirmed intrusion → implemented fixes. 
-
-➡️ **All Labs →** <a href="./labs">View all labs</a>
-
-## 🧪 Labs
-
 **⭐ Latest →**  
 - <a href="./labs/metasploitable-ssh-lab/" style="font-weight: bold;">Metasploitable2 — SSH Brute-Force Lab</a>  
   Full attack-to-defence workflow using Kali → brute-forced SSH on Metasploitable2 → analysed logs → confirmed intrusion → implemented fixes.
@@ -168,27 +160,6 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
   A full security audit covering asset management, access controls, encryption, backups, and compliance posture. Includes a completed controls & compliance checklist and risk recommendations.
 
 ➡️ **All Projects →** <a href="./cyber-projects">View all projects</a>
-
-
-
-
----
-
-## 🧪 Labs
-
-**⭐ Latest →**  
-- <a href="./labs/metasploitable-ssh-lab/" style="font-weight: bold;">Metasploitable2 — SSH Brute-Force Lab</a>  
-  Full attack-to-defence workflow using Kali → brute-forced SSH on Metasploitable2 → analysed logs → confirmed intrusion → implemented fixes.
-
-➡️ **All Labs →** <a href="./labs">View all labs</a>
-
----
-
-
-
-
-
-
 
 ---
 
