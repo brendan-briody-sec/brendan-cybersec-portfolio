@@ -1,6 +1,5 @@
 # Metasploitable2 — SSH brute-force lab (Nov 7, 2025)
 
-### 🔎 View Full Lab Report
 ➡️ **[Click here to view the complete step-by-step lab report](./lab-report.md)**
 
 **Date:** Nov 7, 2025  
