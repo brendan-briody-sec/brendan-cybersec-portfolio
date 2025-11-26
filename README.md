@@ -13,7 +13,7 @@
   <a href="https://tryhackme.com/p/brendanbriodysec" title="My TryHackMe profile"><b>TryHackMe</b></a> 
   and my own personal 
   <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/cyber-projects" title="Browse my personal projects"><b>Projects</b></a> 
-  & 
+  and 
   <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/labs" title="Browse my personal labs"><b>Labs</b></a>.
 </p>
 
