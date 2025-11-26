@@ -17,10 +17,26 @@
   <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/labs" title="Browse my personal labs"><b>Labs</b></a>.
 </p>
 
-Entry-level SOC analyst in development — gaining hands-on defensive experience through the Google Cybersecurity 
-<b>Certificate</b>, <b>TryHackMe</b>, and my own personal 
-<b><a href="YOUR_PROJECTS_LINK">Projects</a></b> & 
-<b><a href="YOUR_LABS_LINK">Labs</a></b>.
+<p align="center">
+Developing SOC analyst based in Dublin, building real defensive skills through the Google Cybersecurity Professional 
+  <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/certs" title="View my Google Cybersecurity Certificate progress"><b>Certificate</b></a>,   and building hands-on skills through 
+  <a href="https://tryhackme.com/p/brendanbriodysec" title="My TryHackMe profile"><b>TryHackMe</b></a> 
+  and my own personal 
+  <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/cyber-projects" title="Browse my personal projects"><b>Projects</b></a> 
+  and 
+  <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/labs" title="Browse my personal labs"><b>Labs</b></a>.
+</p>
+
+<p align="center">
+  Developing SOC analyst based in Dublin, gaining real defensive skills through the Google Cybersecurity 
+  <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/certs" title="View my Google Cybersecurity Certificate progress"><b>Certificate</b></a>,
+  hands-on learning on 
+  <a href="https://tryhackme.com/p/brendanbriodysec" title="My TryHackMe profile"><b>TryHackMe</b></a>,
+  and my own personal 
+  <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/cyber-projects" title="Browse my personal projects"><b>Projects</b></a> 
+  & 
+  <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/labs" title="Browse my personal labs"><b>Labs</b></a>.
+</p>
 
 ---
 
