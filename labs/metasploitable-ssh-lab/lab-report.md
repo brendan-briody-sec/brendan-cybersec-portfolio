@@ -75,7 +75,7 @@ Network: VirtualBox Host-Only (isolated)
 
 <a id="step-by-step-procedure"></a>
 
-## Step‑by‑step procedure
+# Step‑by‑step procedure
 
 > All commands were executed on Kali and Metasploitable unless otherwise noted.
 
