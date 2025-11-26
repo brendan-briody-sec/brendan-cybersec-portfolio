@@ -64,6 +64,19 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ---
 
+## 🛡️ What I Can Do Today
+
+- Analyse authentication logs to identify suspicious activity or brute-force attempts  
+- Capture, filter and interpret network traffic using Wireshark  
+- Perform structured incident documentation with clear technical summaries  
+- Use Linux command-line tools for investigation and system inspection  
+- Conduct vulnerability exploration in safe lab environments  
+- Review and harden basic server configurations (e.g., SSH, fail2ban)  
+- Understand the basics of SOC alert triage and identifying indicators of compromise  
+- Follow SOC-style processes: enumeration → detection → analysis → mitigation → documentation
+
+---
+
 ## 🧠 Skills I Have
 
 <p align="center">
