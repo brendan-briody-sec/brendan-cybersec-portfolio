@@ -178,7 +178,7 @@ Secure an **entry-level cybersecurity analyst / SOC analyst** role by continuing
 - Evidence-backed documentation, reporting, and defensive analysis  
 - Expanding knowledge in networking, Linux, and SOC workflows  
 
-My focus is on developing practical, job-ready defensive skills that translate directly into real SOC environments.
+I’m pursuing a SOC career because I genuinely enjoy the investigative side of cybersecurity — analysing logs, identifying anomalies, understanding how attacks unfold, and using evidence to piece together what happened. The combination of defensive thinking, technical problem-solving, and continuous learning feels like the perfect fit for me. I want to work in a role where my skills directly contribute to protecting systems, people, and businesses.
 
 ---
 
