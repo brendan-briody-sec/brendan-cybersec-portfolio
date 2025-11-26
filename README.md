@@ -147,7 +147,7 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
   A full security audit covering asset management, access controls, encryption, backups, and compliance posture.  
   Includes a completed controls & compliance checklist and risk recommendations.
 
-➡️ **All Projects →** <a href="./cyber-projects">View all projects</a>
+➡️ **All Projects →** <a href="./cyber-projects/google-cyber-cert/botium-toys-audit">View all projects</a>
 
 ---
 
