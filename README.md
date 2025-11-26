@@ -17,6 +17,10 @@
   <a href="https://github.com/brendan-briody-sec/brendan-cybersec-portfolio/tree/main/labs" title="Browse my personal labs"><b>Labs</b></a>.
 </p>
 
+Entry-level SOC analyst in development — gaining hands-on defensive experience through the Google Cybersecurity 
+<b>Certificate</b>, <b>TryHackMe</b>, and my own personal 
+<b><a href="YOUR_PROJECTS_LINK">Projects</a></b> & 
+<b><a href="YOUR_LABS_LINK">Labs</a></b>.
 
 ---
 
