@@ -142,10 +142,12 @@ This portfolio documents my **practical, hands-on journey into cybersecurity**, 
 
 ## 🔐 Cybersecurity Projects
 
-### Latest: Botium Toys Security Audit (Google Cybersecurity Certificate)
-A security audit assessing asset management, access controls, encryption, backups, and compliance posture. Includes a completed controls & compliance checklist and risk recommendations.
+**⭐ Latest →**  
+- <a href="./cyber-projects/botium-toys-audit" style="font-weight: bold;">Botium Toys Security Audit</a>  
+  A full security audit covering asset management, access controls, encryption, backups, and compliance posture.  
+  Includes a completed controls & compliance checklist and risk recommendations.
 
-📂 [View Project Folder](./cyber-projects)
+➡️ **All Projects →** <a href="./cyber-projects">View all projects</a>
 
 ---
 
