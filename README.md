@@ -182,19 +182,6 @@ I’m pursuing a SOC career because I genuinely enjoy the investigative side of 
 
 ---
 
-## 🎯 Goal for 2025
-
-Secure an **entry-level cybersecurity analyst / SOC analyst** role by continuing to build real-world skills through:
-
-- Hands-on labs and home lab projects  
-- Continuous progress through TryHackMe and the Google Cybersecurity Certificate  
-- Evidence-backed documentation, reporting, and defensive analysis  
-- Expanding knowledge in networking, Linux, and SOC workflows  
-
-I’m pursuing a SOC career because I genuinely enjoy the investigative side of cybersecurity — analysing logs, identifying anomalies, understanding how attacks unfold, and using evidence to piece together what happened. The combination of defensive thinking, technical problem-solving, and continuous learning feels like the perfect fit for me. I want to work in a role where my skills directly contribute to protecting systems, people, and businesses.
-
----
-
 ## 📬 Contact & Connect
 
 If you'd like to connect, collaborate, or discuss cybersecurity, feel free to reach out:
