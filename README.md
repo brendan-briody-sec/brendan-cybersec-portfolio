@@ -8,7 +8,8 @@
 
 <p align="center">
   Developing cybersecurity analyst based in Dublin, currently completing the Google Cybersecurity Professional 
-  <a href="https://www.coursera.org/account/accomplishments/verify/OL1CLCVOFN66" title="View my Google Cybersecurity Certificate progress"><b>Certificate</b></a> 
+  <a href="brendan-cybersec-portfolio
+/certs/" title="View my Google Cybersecurity Certificate progress"><b>Certificate</b></a> 
   and building hands-on skills through 
   <a href="https://tryhackme.com/p/brendanbriodysec" title="My TryHackMe profile"><b>TryHackMe</b></a> 
   and my own 
