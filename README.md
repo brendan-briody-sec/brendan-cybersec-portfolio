@@ -37,7 +37,8 @@
 <h3 align="center">Quick Navigation</h3>
 
 <p align="center">
-  <a href="#-about">🔍 About</a> • 
+  <a href="#-about">🔍 About</a> •
+  <a href="#-what-i-can-do-today">🛡️ What I Can Do Today</a> •
   <a href="#-skills-i-have">🧠 Skills</a> • 
   <a href="#-tools-i-use">🧰 Tools</a> • 
   <a href="#-latest-progress">🚀 Latest</a> •
