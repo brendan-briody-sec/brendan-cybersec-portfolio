@@ -188,3 +188,5 @@ If you'd like to connect, collaborate, or discuss cybersecurity, feel free to re
 
 - 📧 Email: **brendanbriody.sec@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/brendanbriody**
+- [**💼 BB LinkedIn Profile**](https://www.linkedin.com/in/brendanbriody)
+
